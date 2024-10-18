@@ -1,0 +1,316 @@
+var simplemaps_countrymap_mapdata = {
+  main_settings: {
+    //General settings
+    width: "responsive", //'700' or 'responsive'
+    background_color: "#FFFFFF",
+    background_transparent: "yes",
+    border_color: "#ffffff",
+
+    //State defaults
+    state_description: "State description",
+    state_color: "#88A4BC",
+    state_hover_color: "#3B729F",
+    state_url: "",
+    border_size: 1.5,
+    all_states_inactive: "no",
+    all_states_zoomable: "yes",
+
+    //Location defaults
+    location_description: "Location description",
+    location_url: "",
+    location_color: "#FF0067",
+    location_opacity: 0.8,
+    location_hover_opacity: 1,
+    location_size: 25,
+    location_type: "square",
+    location_image_source: "frog.png",
+    location_border_color: "#FFFFFF",
+    location_border: 2,
+    location_hover_border: 2.5,
+    all_locations_inactive: "no",
+    all_locations_hidden: "no",
+
+    //Label defaults
+    label_color: "#ffffff",
+    label_hover_color: "#ffffff",
+    label_size: 16,
+    label_font: "Arial",
+    label_display: "auto",
+    label_scale: "yes",
+    hide_labels: "no",
+    hide_eastern_labels: "no",
+
+    //Zoom settings
+    zoom: "yes",
+    manual_zoom: "yes",
+    back_image: "no",
+    initial_back: "no",
+    initial_zoom: "-1",
+    initial_zoom_solo: "no",
+    region_opacity: 1,
+    region_hover_opacity: 0.6,
+    zoom_out_incrementally: "yes",
+    zoom_percentage: 0.99,
+    zoom_time: 0.5,
+
+    //Popup settings
+    popup_color: "white",
+    popup_opacity: 0.9,
+    popup_shadow: 1,
+    popup_corners: 5,
+    popup_font: "12px/1.5 Verdana, Arial, Helvetica, sans-serif",
+    popup_nocss: "no",
+
+    //Advanced settings
+    div: "map",
+    auto_load: "yes",
+    url_new_tab: "no",
+    images_directory: "default",
+    fade_time: 0.1,
+    link_text: "View Website",
+    popups: "detect",
+    state_image_url: "",
+    state_image_position: "",
+    location_image_url: "",
+    border_hover_color: "",
+  },
+  state_specific: {
+    NPBA: {
+      name: "Bagmati",
+      description: "",
+    },
+    NPBH: {
+      name: "Bheri",
+      description: "",
+    },
+    NPDH: {
+      name: "Dhawalagiri",
+      description: "",
+    },
+    NPGA: {
+      name: "Gandaki",
+      description: "",
+    },
+    NPJA: {
+      name: "Janakpur",
+      description: "",
+    },
+    NPKA: {
+      name: "Karnali",
+      description: "",
+    },
+    NPKO: {
+      name: "Bhojpur",
+      description: "",
+    },
+    NPLU: {
+      name: "Lumbini",
+      description: "",
+    },
+    NPMA: {
+      name: "Mahakali",
+      description: "",
+    },
+    NPME: {
+      name: "Mechi",
+      description: "",
+    },
+    NPNA: {
+      name: "Narayani",
+      description: "",
+    },
+    NPRA: {
+      name: "Rapti",
+      description: "",
+    },
+    NPSA: {
+      name: "Sagarmatha",
+      description: "",
+    },
+    NPSE: {
+      name: "Seti",
+      description: "",
+    },
+  },
+  locations: {
+    0: {
+      name: "Annapurna Base Camp",
+      description: "A popular trekking destination surrounded by towering peaks, offering stunning views of Annapurna I and Machapuchare.",
+      color: "#00FF00",
+      lat: "28.530649670965644",
+      lng: "83.87806907576186",
+      type: "circle",
+      size: "18",
+    },
+    1: {
+      name: "Everest Base Camp",
+      description: "The iconic trek to the foot of the world's highest mountain, providing awe-inspiring views of Mount Everest and a glimpse into the lives of Sherpa culture.",
+      color: "#00FF00",
+      size: "18",
+      type: "circle",
+      lat: "28.08301931825601",
+      lng: "86.86892565298723",
+    },
+    2: {
+      name: "Ghorepani Poon HIll",
+      description: "A short and accessible trek, known for its panoramic sunrise view over the Annapurna and Dhaulagiri mountain ranges, ideal for beginners.",
+      lat: "28.402233100533504",
+      lng: "83.69041412429618",
+      size: "18",
+      type: "circle",
+      color: "#00FF00",
+    },
+    3: {
+      name: "Gokyo Lake",
+      description: "A pristine, high-altitude glacial lake trek, offering breathtaking views of turquoise waters and the surrounding Everest region, including Cho Oyu.",
+      size: "18",
+      type: "circle",
+      lat: "28.031573283001304",
+      lng: "86.70162745093702",
+      color: "#00FF00",
+    },
+    4: {
+      name: "Helambu",
+      description: "A culturally rich trek close to Kathmandu, offering a mix of Tamang and Sherpa villages, lush forests, and picturesque mountain vistas.",
+      size: "18",
+      type: "circle",
+      lat: "28.0525569348973",
+      lng: "85.53512716161642",
+      color: "#00FF00",
+    },
+    5: {
+      name: "Kanchenjunga",
+      description: "A remote and challenging trek to the world's third-highest mountain, featuring unspoiled landscapes and diverse flora and fauna.",
+      size: "18",
+      type: "circle",
+      lat: "27.703212492556432",
+      lng: "88.1471916205366",
+      color: "#00FF00",
+    },
+    6: {
+      name: "Langtang",
+      description: ": A relatively accessible trek through the Langtang Valley, offering beautiful alpine scenery, traditional villages, and the sacred Gosaikunda Lake.",
+      size: "18",
+      type: "circle",
+      lat: "28.205702107475705",
+      lng: "85.62360491924619",
+      color: "#00FF00",
+    },
+    7: {
+      name: "Makalu",
+      description: "A demanding trek to the base of Makalu, the fifth-highest mountain, providing isolated wilderness and striking views of snow-capped peaks.",
+      size: "18",
+      type: "circle",
+      lat: "27.88642814294333",
+      lng: "87.0876491433581",
+      color: "#00FF00",
+    },
+    8: {
+      name: "Manaslu",
+      description: "Remote trek around the eighth-highest mountain, offering cultural immersion in Tibetan villages and dramatic Himalayan landscapes.",
+      size: "18",
+      type: "circle",
+      lat: "28.550162223879532",
+      lng: "84.5598484050692",
+      color: "#00FF00",
+    },
+    9: {
+      name: "Mardi",
+      description: "A lesser-known trek offering stunning views of Annapurna, Machapuchare, and Mardi Himal, perfect for trekkers seeking a quieter route.",
+      size: "18",
+      type: "circle",
+      lat: "28.499386656868914",
+      lng: "83.93757866243902",
+      color: "#00FF00",
+    },
+    10: {
+      name: "Narphu",
+      description: "A rugged trek through the hidden Nar and Phu valleys, showcasing ancient Tibetan culture, medieval villages, and dramatic mountain scenery.",
+      size: "18",
+      type: "circle",
+      lat: "28.78723255926793",
+      lng: "84.31276731741647",
+      color: "#00FF00",
+    },
+    11: {
+      name: "Rara Lake",
+      description: "Nepal's largest lake, set in a serene and remote region, surrounded by pristine forests and offering tranquil beauty far from the usual trekking routes.",
+      size: "18",
+      type: "circle",
+      lat: "29.535583989014203",
+      lng: "82.09420484258253",
+      color: "#00FF00",
+    },
+    12: {
+      name: "Upper Mustang",
+      description: "A unique trek into the once-restricted kingdom of Mustang, known for its striking desert-like landscapes, cave dwellings, and Tibetan culture.",
+      size: "18",
+      type: "circle",
+      lat: "29.31456454697784",
+      lng: "83.91739836257457",
+      color: "#00FF00",
+    },
+  },
+  labels: {
+    NPBA: {
+      name: "Bagmati",
+      parent_id: "NPBA",
+    },
+    NPBH: {
+      name: "Bheri",
+      parent_id: "NPBH",
+    },
+    NPDH: {
+      name: "Dhawalagiri",
+      parent_id: "NPDH",
+    },
+    NPGA: {
+      name: "Gandaki",
+      parent_id: "NPGA",
+    },
+    NPJA: {
+      name: "Janakpur",
+      parent_id: "NPJA",
+    },
+    NPKA: {
+      name: "Karnali",
+      parent_id: "NPKA",
+    },
+    NPKO: {
+      name: "Bhojpur",
+      parent_id: "NPKO",
+    },
+    NPLU: {
+      name: "Lumbini",
+      parent_id: "NPLU",
+    },
+    NPMA: {
+      name: "Mahakali",
+      parent_id: "NPMA",
+    },
+    NPME: {
+      name: "Mechi",
+      parent_id: "NPME",
+    },
+    NPNA: {
+      name: "Narayani",
+      parent_id: "NPNA",
+    },
+    NPRA: {
+      name: "Rapti",
+      parent_id: "NPRA",
+    },
+    NPSA: {
+      name: "Sagarmatha",
+      parent_id: "NPSA",
+    },
+    NPSE: {
+      name: "Seti",
+      parent_id: "NPSE",
+    },
+  },
+  legend: {
+    entries: [],
+  },
+  regions: {},
+};

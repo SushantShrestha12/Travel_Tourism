@@ -1,0 +1,148 @@
+/* General container for the entire page */
+.container {
+  display: flex;
+  font-family: 'Arial', sans-serif;
+}
+
+/* Content Area */
+.content {
+  display: flex;
+  justify-content: space-evenly;
+  align-items:flex-start;
+  padding: 40px;
+  flex-grow: 1;
+  margin-left: 15vw;
+  margin-top: 6vh;
+}
+
+/* Button Container */
+.button-container {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 15px;
+}
+
+.gradient-button {
+  width: 220px;
+  height: 60px;
+  border-radius: 50px;
+  border: none;
+  background: linear-gradient(90deg, #ffd700, #ffae00);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+  cursor: pointer;
+  transition: all 0.3s ease-in-out;
+  font-size: 18px; 
+  color: white;
+  font-weight: bold; 
+  text-align: center;
+  line-height: 60px;
+  text-transform: uppercase;
+}
+
+.gradient-button:hover {
+  transform: translateY(-5px) scale(1.05);
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.3);
+}
+
+.yellow { background: linear-gradient(90deg, #ffd700, #ffae00); }
+.orange { background: linear-gradient(90deg, #ff4500, #ff8c00); }
+.red    { background: linear-gradient(90deg, #ff6347, #ff4500); }
+.green  { background: linear-gradient(90deg, #32cd32, #228b22); }
+.cyan   { background: linear-gradient(90deg, #00ced1, #20b2aa); }
+.blue   { background: linear-gradient(90deg, #1e90ff, #4169e1); }
+.pink   { background: linear-gradient(90deg, #ff69b4, #ff1493); }
+.grey   { background: linear-gradient(90deg, #dcdcdc, #a9a9a9); }
+
+/* Chart Container */
+.chart-container {
+  margin-top: 40px;
+  width: 50vw;
+  display: flex;
+  justify-content: center;
+  padding: 40px;
+  background-color: #fff;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+  border-radius: 15px;
+}
+
+.trek-bar-chart-container {
+  width: 100%;
+  max-width: 800px;
+}
+
+.trek-pie-chart-container{
+ width: 60%;
+}
+
+.visual-btns {
+  margin-top: 6vh;
+}
+
+h2 {
+  font-size: 28px;
+  font-weight: bold;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+  .content {
+    flex-direction: column;
+    margin-left: 0;
+    align-items: center;
+    padding: 20px;
+  }
+
+  .button-container {
+    grid-template-columns: repeat(2, 1fr);
+    width: 100%;
+    justify-content: center;
+  }
+
+  .chart-container {
+    width: 100%;
+    
+  }
+
+  .gradient-button {
+    width: 150px;
+    height: 50px;
+    line-height: 50px;
+    font-size: 16px;
+  }
+
+  h2 {
+    font-size: 22px;
+  }
+}
+
+
+
+h1 {
+  font-family: 'Roboto', sans-serif; /* Clean, modern font */
+  font-size: 36px; /* Large size to make it prominent */
+  color: #2d3436; /* Dark color for readability */
+  text-align: center; /* Center-align for balance */
+  margin-bottom: 20px; /* Space below the heading */
+  position: relative;
+  padding-bottom: 10px;
+  font-weight: 700; /* Bold for emphasis */
+}
+
+/* Adding a stylish underline */
+h1::after {
+  content: '';
+  width: 80px;
+  height: 4px;
+  background-color: #6c63ff; /* Accent color for the underline */
+  position: absolute;
+  bottom: 0;
+  left: 50%;
+  transform: translateX(-50%);
+  border-radius: 2px;
+}
+
+h1 {
+  text-shadow: 1px 1px 4px rgba(0, 0, 0, 0.1);
+}

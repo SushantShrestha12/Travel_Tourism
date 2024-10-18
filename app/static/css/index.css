@@ -1,0 +1,207 @@
+.container {
+  display: flex;
+  justify-content: space-between;
+}
+
+h1 {
+  font-family: 'Roboto', sans-serif; 
+  font-size: 36px; 
+  color: #2d3436; 
+  text-align: center;
+  margin-bottom: 20px; 
+  position: relative;
+  padding-bottom: 10px;
+  font-weight: 700; 
+}
+
+h1::after {
+  content: '';
+  width: 80px;
+  height: 4px;
+  background-color: #6c63ff; /* Accent color for the underline */
+  position: absolute;
+  bottom: 0;
+  left: 50%;
+  transform: translateX(-50%);
+  border-radius: 2px;
+}
+
+h1 {
+  text-shadow: 1px 1px 4px rgba(0, 0, 0, 0.1);
+}
+
+.map-container{
+  margin-top: 10vh;
+}
+
+.map {
+  width: 75%; 
+  height: 500px;
+  background-color: #eef2f5; 
+  border: 1px solid #d1d8e0; 
+  border-radius: 15px;
+  box-shadow: 0 6px 15px rgba(0, 0, 0, 0.1); 
+  transition: transform 0.2s ease-in-out; 
+  margin-left: 9vw;
+}
+
+.map-marker {
+  width: 15px;
+  height: 15px;
+  background-color: #1abc9c; /* Green for markers */
+  border-radius: 50%;
+  position: absolute;
+  transition: background-color 0.3s ease;
+}
+
+.map-marker:hover {
+  background-color: #16a085; /* Darken color on hover */
+  cursor: pointer;
+}
+
+.main-content {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 100%;
+  padding-left: 20px;
+  margin-left: 20vw;
+}
+
+/* Zoom buttons */
+.zoom-control {
+  position: absolute;
+  top: 10px;
+  left: 10px;
+  display: flex;
+  flex-direction: column;
+}
+
+.zoom-control button {
+  background-color: white;
+  border: 1px solid #ccc;
+  padding: 8px;
+  margin: 2px;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.zoom-control button:hover {
+  background-color: #dcdde1;
+}
+
+.button-container {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 15px;
+  margin-top: 10vh;
+  height: 90vh;
+}
+/* Container for the basic info */
+.info-container {
+  background-color: #ffffff;
+  border-radius: 12px;
+  padding: 30px;
+  width: 40vw;
+  height: auto;
+  margin: 40px auto;
+  text-align: center;
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.15);
+  position: relative;
+}
+
+/* Title Styling */
+.info-container h2 {
+  margin-bottom: 25px;
+  font-size: 28px;
+  font-weight: bold;
+  color: #333;
+}
+
+/* Grid for Basic Info */
+.info-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 20px;
+}
+
+/* Basic Info Items */
+.info-item {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+}
+
+/* Icon Styling */
+.info-item i {
+  font-size: 26px;
+  margin-bottom: 10px;
+  color: #555;
+}
+
+/* Label Styling */
+.info-item p {
+  font-weight: 600;
+  font-size: 16px;
+  margin-bottom: 6px;
+  color: #444;
+}
+
+/* Value Styling */
+.info-item span {
+  font-size: 15px;
+  color: #777;
+}
+
+/* Gradient Button Styles */
+.gradient-button {
+  width: 180px;
+  height: 45px;
+  margin: 10px 0;
+  border-radius: 25px;
+  border: none;
+  background: linear-gradient(90deg, #ffd700, #ffae00);
+  box-shadow: 0 6px 18px rgba(0, 0, 0, 0.25);
+  cursor: pointer;
+  transition: all 0.4s ease;
+  font-size: 16px;
+  color: white;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+
+/* Button Hover Effect */
+.gradient-button:hover {
+  transform: translateY(-6px);
+  box-shadow: 0 12px 28px rgba(0, 0, 0, 0.3);
+}
+
+/* Different Gradient Colors */
+.yellow { background: linear-gradient(90deg, #ffd700, #ffae00); }
+.orange { background: linear-gradient(90deg, #ff4500, #ff8c00); }
+.red    { background: linear-gradient(90deg, #ff6347, #ff4500); }
+.green  { background: linear-gradient(90deg, #32cd32, #228b22); }
+.cyan   { background: linear-gradient(90deg, #00ced1, #20b2aa); }
+.blue   { background: linear-gradient(90deg, #1e90ff, #4169e1); }
+.pink   { background: linear-gradient(90deg, #ff69b4, #ff1493); }
+.purple { background: linear-gradient(90deg, #800080, #8a2be2); }
+.brown  { background: linear-gradient(90deg, #8b4513, #a0522d); }
+.teal   { background: linear-gradient(90deg, #008080, #20b2aa); }
+.gold   { background: linear-gradient(90deg, #ffd700, #daa520); }
+.maroon { background: linear-gradient(90deg, #800000, #b22222); }
+.indigo { background: linear-gradient(90deg, #4b0082, #6a5acd); }
+.violet { background: linear-gradient(90deg, #ee82ee, #da70d6); }
+
+.btn-content {
+  display: flex;
+  align-items: center;
+  margin-right: 25px;
+  margin-top: -10vh;
+}
+
+.section-1, .section-2 {
+  width: 200px;
+}

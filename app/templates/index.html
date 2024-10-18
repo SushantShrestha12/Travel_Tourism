@@ -1,0 +1,203 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    <link
+      rel="stylesheet"
+      href="{{ url_for('static', filename='css/sidebar.css') }}"
+    />
+    <link
+      rel="stylesheet"
+      href="{{ url_for('static', filename='css/index.css') }}"
+    />
+    <link
+      rel="stylesheet"
+      href="{{ url_for('static', filename='css/background.css')}}"
+    />
+    <link
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css"
+      rel="stylesheet"
+    />
+    <title>Nepal</title>
+  </head>
+  <body>
+    <div class="login-root">
+      <div
+        class="box-root flex-flex flex-direction--column"
+        style="min-height: 100vh; flex-grow: 1"
+      >
+        <div class="loginbackground box-background--white padding-top--64">
+          <div class="loginbackground-gridContainer">
+            <div
+              class="box-root flex-flex"
+              style="grid-area: top / start / 8 / end"
+            >
+              <div
+                class="box-root"
+                style="
+                  background-image: linear-gradient(
+                    white 0%,
+                    rgb(247, 250, 252) 33%
+                  );
+                  flex-grow: 1;
+                "
+              ></div>
+            </div>
+            <div class="box-root flex-flex" style="grid-area: 4 / 2 / auto / 5">
+              <div
+                class="box-root box-divider--light-all-2 animationLeftRight tans3s"
+                style="flex-grow: 1"
+              ></div>
+            </div>
+            <div
+              class="box-root flex-flex"
+              style="grid-area: 6 / start / auto / 2"
+            >
+              <div
+                class="box-root box-background--blue800"
+                style="flex-grow: 1"
+              ></div>
+            </div>
+            <div
+              class="box-root flex-flex"
+              style="grid-area: 7 / start / auto / 4"
+            >
+              <div
+                class="box-root box-background--blue animationLeftRight"
+                style="flex-grow: 1"
+              ></div>
+            </div>
+            <div class="box-root flex-flex" style="grid-area: 8 / 4 / auto / 6">
+              <div
+                class="box-root box-background--gray100 animationLeftRight tans3s"
+                style="flex-grow: 1"
+              ></div>
+            </div>
+            <div
+              class="box-root flex-flex"
+              style="grid-area: 2 / 15 / auto / end"
+            >
+              <div
+                class="box-root box-background--cyan200 animationRightLeft tans4s"
+                style="flex-grow: 1"
+              ></div>
+            </div>
+            <div
+              class="box-root flex-flex"
+              style="grid-area: 3 / 14 / auto / end"
+            >
+              <div
+                class="box-root box-background--blue animationRightLeft"
+                style="flex-grow: 1"
+              ></div>
+            </div>
+            <div
+              class="box-root flex-flex"
+              style="grid-area: 4 / 17 / auto / 20"
+            >
+              <div
+                class="box-root box-background--gray100 animationRightLeft tans4s"
+                style="flex-grow: 1"
+              ></div>
+            </div>
+            <div
+              class="box-root flex-flex"
+              style="grid-area: 5 / 14 / auto / 17"
+            >
+              <div
+                class="box-root box-divider--light-all-2 animationRightLeft tans3s"
+                style="flex-grow: 1"
+              ></div>
+            </div>
+          </div>
+        </div>
+        <div
+          class="box-root padding-top--0 flex-flex flex-direction--column"
+          style="flex-grow: 1; z-index: 9"
+        >
+          <div class="container">
+            <div>{% include 'sidebar.html' %}</div>
+
+            <div class="main-content">
+              <div class="map-container">
+                <h1>Dashboard</h1>
+                <div class="map" id="map"></div>
+              </div>
+
+              <div class="button-container">
+                <h1>Trek Basic Info</h1>
+                <div class="btn-content">
+                  <div class="section-1">
+                    <button class="gradient-button pink">Annapurna</button>
+                    <button class="gradient-button orange">Everest</button>
+                    <button class="gradient-button red">Poon Hill</button>
+                    <button class="gradient-button green">Gokyo</button>
+                    <button class="gradient-button cyan">Helambu</button>
+                    <button class="gradient-button blue">Kanchenjunga</button>
+                    <button class="gradient-button pink">Langtang</button>
+                  </div>
+                    <div class="info-container">
+                      <h2>Basic Info</h2>
+                      <div class="info-grid">
+                        <div class="info-item">
+                          <i class="fas fa-globe"></i>
+                          <p>Country</p>
+                          <span>Nepal</span>
+                        </div>
+                        <div class="info-item">
+                          <i class="fas fa-calendar-alt"></i>
+                          <p>Duration</p>
+                          <span>11 Days</span>
+                        </div>
+                        <div class="info-item">
+                          <i class="fas fa-signal"></i>
+                          <p>Difficulty</p>
+                          <span>Advanced</span>
+                        </div>
+                        <div class="info-item">
+                          <i class="fas fa-map-marker-alt"></i>
+                          <p>Start/End Point</p>
+                          <span>Kathmandu</span>
+                        </div>
+                        <div class="info-item">
+                          <i class="fas fa-mountain"></i>
+                          <p>Altitude</p>
+                          <span>5545 m</span>
+                        </div>
+                        <div class="info-item">
+                          <i class="fas fa-cloud-sun"></i>
+                          <p>Best season</p>
+                          <span>March-May</span>
+                        </div>
+                        <div class="info-item">
+                          <i class="fas fa-hotel"></i>
+                          <p>Accommodation</p>
+                          <span>Hotel/Guesthouse</span>
+                        </div>
+                        <div class="info-item">
+                          <i class="fas fa-star"></i>
+                          <p>Rating</p>
+                          <span>★★★★★</span>
+                        </div>
+                      </div>               
+                  </div>
+                  <div class="section-2">
+                    <button class="gradient-button purple">Makalu</button>
+                    <button class="gradient-button brown">Manaslu</button>
+                    <button class="gradient-button teal">Mardi</button>
+                    <button class="gradient-button gold">Narphu</button>
+                    <button class="gradient-button maroon">Rara</button>
+                    <button class="gradient-button indigo">Mustang</button>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <script src="{{ url_for('static', filename='js/mapdata.js') }}"></script>
+    <script src="{{ url_for('static', filename='js/countrymap.js') }}"></script>
+  </body>
+</html>

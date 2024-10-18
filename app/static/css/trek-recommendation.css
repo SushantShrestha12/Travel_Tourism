@@ -1,0 +1,371 @@
+
+h1 {
+  font-family: 'Roboto', sans-serif; /* Clean, modern font */
+  font-size: 36px; /* Large size to make it prominent */
+  color: #2d3436; /* Dark color for readability */
+  text-align: center; /* Center-align for balance */
+  margin-bottom: 20px; /* Space below the heading */
+  position: relative;
+  padding-bottom: 10px;
+  font-weight: 700; /* Bold for emphasis */
+}
+
+/* Adding a stylish underline */
+h1::after {
+  content: '';
+  width: 80px;
+  height: 4px;
+  background-color: #6c63ff; /* Accent color for the underline */
+  position: absolute;
+  bottom: 0;
+  left: 50%;
+  transform: translateX(-50%);
+  border-radius: 2px;
+}
+
+h1 {
+  text-shadow: 1px 1px 4px rgba(0, 0, 0, 0.1);
+}
+
+
+.container {
+  display: flex;
+  align-items: center;
+  width: 100%;
+}
+
+.center-box{
+  display: flex;
+  justify-content: center;
+  width: 100%;
+}
+
+.form-wrapper{
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.rec-form{
+  display: flex;
+  flex-direction: column;
+  margin-left: 35vw;
+  margin-top: 2vh;
+}
+
+#trekForm {
+  background-color: #ffffff;
+  border-radius: 12px;
+  padding: 40px;
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.1);
+  width: 100%;
+  transition: transform 0.2s ease-in-out;
+}
+
+#trekForm label {
+  color: #333;
+  margin-top: 15px;
+  display: block;
+  font-weight: 500;
+  font-size: 14px;
+  margin-bottom: 5px;
+}
+
+#trekForm input,
+#trekForm select {
+  width: calc(100% - 20px);
+  padding: 12px;
+  margin-bottom: 10px;
+  border: 1.5px solid #e0e4ec;
+  border-radius: 8px;
+  background-color: #f9f9f9;
+  font-size: 14px;
+  color: #555;
+  transition: border-color 0.3s ease, background-color 0.3s ease;
+}
+
+#trekForm input:focus,
+#trekForm select:focus {
+  border-color: #5d58f8;
+  background-color: #fff;
+  outline: none;
+}
+
+.submit {
+  width: 100%;
+  padding: 14px;
+  border: none;
+  border-radius: 10px;
+  background-color: #5d58f8;
+  color: #fff;
+  font-size: 16px;
+  font-weight: 600;
+  cursor: pointer;
+  transition: background-color 0.3s ease, transform 0.2s ease-in-out;
+  margin-top: 10px;
+}
+
+.submit:hover {
+  background-color: #4c46d4;
+  transform: scale(1.03);
+}
+
+.submit:active {
+  transform: scale(0.98);
+}
+
+.form-group {
+  margin-bottom: 20px;
+}
+
+#trekForm input[type="number"] {
+  width: 100%; /* Ensure that number inputs span the full width */
+}
+
+#age,
+#trekGroupSize {
+  width: 100%;
+}
+
+.loading-spinner {
+  display: none;
+  border: 4px solid #f3f3f3;
+  border-top: 4px solid #7873f5;
+  border-radius: 50%;
+  width: 40px;
+  height: 40px;
+  animation: spin 1s linear infinite;
+  margin: 20px auto;
+}
+
+@keyframes spin {
+  0% {
+      transform: rotate(0deg);
+  }
+  100% {
+      transform: rotate(360deg);
+  }
+}
+
+.modal {
+  display: none; 
+  position: fixed;
+  z-index: 100;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.5); 
+  justify-content: center;
+  align-items: center;
+}
+
+.modal-content {
+  background-color: #fff;
+  padding: 20px;
+  border-radius: 10px;
+  text-align: center;
+  box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
+  width: 300px;
+  transform: scale(0.7);
+  transition: transform 0.3s ease-out;
+}
+
+.modal.show .modal-content {
+  transform: scale(1);
+}
+
+.result-message {
+  font-size: 24px;
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+
+.close-modal {
+  background-color: #ff6ec4;
+  color: #fff;
+  padding: 10px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.close-modal:hover {
+  background-color: #7873f5;
+}
+
+@media (max-width: 600px) {
+  #trekForm {
+      width: 90%;
+      padding: 20px;
+  }
+}
+
+
+
+
+
+/* .container{
+  display: flex;
+  align-items: center;
+}
+
+h1 {
+    color: #333;
+    text-align: start;
+    margin-bottom: 30px;
+    font-size: 28px;
+}
+
+#trekForm {
+    background-color: #ffffff;
+    border-radius: 15px;
+    padding: 30px;
+    box-shadow: 0 8px 15px rgba(0, 0, 0, 0.1);
+    width: 100%;
+    max-width: 500px;
+    border: none;
+    position: relative;
+    overflow: hidden;
+    transition: transform 0.2s ease-in-out;
+}
+
+#trekForm label {
+    color: #333;
+    margin-top: 10px;
+    display: block;
+    font-weight: 500;
+    font-size: 14px;
+}
+
+#trekForm input,
+#trekForm select {
+    width: calc(100% - 20px);
+    padding: 12px 10px;
+    margin: 10px 0 10px 0;
+    border: 2px solid #e0e4ec;
+    border-radius: 8px;
+    background-color: #f9f9f9;
+    transition: border-color 0.3s ease;
+    font-size: 14px;
+    color: #555;
+}
+
+#age,
+#trekGroupSize {
+    width: calc(100% - 20px);
+}
+
+#trekForm input:focus,
+#trekForm select:focus {
+    outline: none;
+    border-color: #7873f5;
+}
+
+.submit {
+    width: 100%;
+    margin-top: 10px;
+    padding: 15px;
+    border: none;
+    border-radius: 10px;
+    background-color: #5d58f8;
+    color: #fff;
+    font-size: 18px;
+    font-weight: bold;
+    cursor: pointer;
+    transition: background-color 0.3s ease, transform 0.2s ease-in-out;
+}
+
+.submit:hover {
+    background-color: #7873f5;
+    transform: scale(1.05);
+}
+
+.submit:active {
+    transform: scale(0.98);
+}
+
+.form-group {
+    margin-bottom: 20px;
+}
+
+@media (max-width: 600px) {
+  #trekForm {
+        width: 90%;
+        padding: 20px;
+    }
+}
+
+
+
+
+.loading-spinner {
+    display: none;
+    border: 4px solid #f3f3f3;
+    border-top: 4px solid #7873f5;
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+    animation: spin 1s linear infinite;
+    margin: 20px auto;
+  }
+
+  @keyframes spin {
+    0% {
+      transform: rotate(0deg);
+    }
+    100% {
+      transform: rotate(360deg);
+    }
+  }
+
+
+  .modal {
+    display: none; 
+    position: fixed;
+    z-index: 100;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5); 
+    justify-content: center;
+    align-items: center;
+  }
+
+  .modal-content {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
+    width: 300px;
+    transform: scale(0.7);
+    transition: transform 0.3s ease-out;
+  }
+
+  .modal.show .modal-content {
+    transform: scale(1);
+  }
+
+  .result-message {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 20px;
+  }
+
+  .close-modal {
+    background-color: #ff6ec4;
+    color: #fff;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+
+  .close-modal:hover {
+    background-color: #7873f5;
+  } */

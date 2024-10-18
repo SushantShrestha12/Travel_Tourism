@@ -1,0 +1,65 @@
+<div class="sidebar">
+  <div class="sidebar-header">
+    <div class="logo">
+      <div class="icon"><i class="fas fa-user"></i></div>
+      <span>Codinglab</span>
+      <small>Web Developer</small>
+    </div>
+    <div class="toggle-btn" id="toggle-btn">
+      <i class="fas fa-chevron-right"></i>
+    </div>
+  </div>
+  <div class="search-box">
+    <i class="fas fa-search"></i>
+    <input type="text" placeholder="Search..." />
+  </div>
+  <ul class="sidebar-menu">
+    <li>
+      <a href="{{ url_for('home', filename='index.html') }}"><i class="fas fa-home"></i> <span>Dashboard</span></a>
+    </li>
+    <li>
+      <a href="{{ url_for('recommendation', filename='trek-recommendation.html') }}"><i class="fas fa-lightbulb"></i> <span> Recommendation </span></a>
+    </li>
+    <li>
+      <a href="{{ url_for('visualization', filename='visualization.html')}}"><i class="fas fa-chart-pie"></i> <span>Analytics</span></a>
+    </li>
+  </ul>
+  <div class="sidebar-footer">
+    <div class="dark-mode">
+      <i class="fas fa-moon"></i> Dark Mode
+      <input type="checkbox" />
+    </div>
+  </div>
+</div>
+
+<script>
+  document.getElementById("toggle-btn").addEventListener("click", function () {
+    document.querySelector(".sidebar").classList.toggle("collapsed");
+  });
+</script>
+
+<!-- <div class="wrapper">
+    <div class="sidebar">
+      <div class="sidebar-header">
+        <h2>Sidebar</h2>
+      </div>
+      <ul class="sidebar-menu">
+        <li>
+          <a href="{{ url_for('home', filename='index.html') }}"><i class="fas fa-home"></i> Home</a>
+        </li>
+        <li>
+          <a href="{{ url_for('recommendation', filename='trek-recommendation.html') }}"><i class="fas fa-lightbulb"></i>Recommendation</a>
+        </li>
+        <li>
+          <a href="{{ url_for('visualization', filename='visualization.html')}}"><i class="fas fa-envelope"></i> Visualizaion</a>
+        </li>
+        <li>
+          <a href="#"><i class="fas fa-cog"></i> Settings</a>
+        </li>
+        <li>
+          <a href="#"><i class="fas fa-sign-out-alt"></i> Logout</a>
+        </li>
+      </ul>
+    </div>
+  </div>
+   -->

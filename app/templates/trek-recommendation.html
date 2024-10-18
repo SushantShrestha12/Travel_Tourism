@@ -1,0 +1,209 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css"
+      rel="stylesheet"
+    />
+    <link
+      rel="stylesheet"
+      href="{{ url_for('static', filename='css/sidebar.css')}}"
+    />
+    <link
+      rel="stylesheet"
+      href="{{ url_for('static', filename='css/trek-recommendation.css') }}"
+    />
+    <link
+      rel="stylesheet"
+      href="{{ url_for('static', filename='css/background.css')}}"
+    />
+    <title>Trekking Recommendation Form</title>
+  </head>
+  <body>
+    <div class="login-root">
+      <div
+        class="box-root flex-flex flex-direction--column"
+        style="min-height: 100vh; flex-grow: 1"
+      >
+        <div class="loginbackground box-background--white padding-top--64">
+          <div class="loginbackground-gridContainer">
+            <div
+              class="box-root flex-flex"
+              style="grid-area: top / start / 8 / end"
+            >
+              <div
+                class="box-root"
+                style="
+                  background-image: linear-gradient(
+                    white 0%,
+                    rgb(247, 250, 252) 33%
+                  );
+                  flex-grow: 1;
+                "
+              ></div>
+            </div>
+            <div class="box-root flex-flex" style="grid-area: 4 / 2 / auto / 5">
+              <div
+                class="box-root box-divider--light-all-2 animationLeftRight tans3s"
+                style="flex-grow: 1"
+              ></div>
+            </div>
+            <div
+              class="box-root flex-flex"
+              style="grid-area: 6 / start / auto / 2"
+            >
+              <div
+                class="box-root box-background--blue800"
+                style="flex-grow: 1"
+              ></div>
+            </div>
+            <div
+              class="box-root flex-flex"
+              style="grid-area: 7 / start / auto / 4"
+            >
+              <div
+                class="box-root box-background--blue animationLeftRight"
+                style="flex-grow: 1"
+              ></div>
+            </div>
+            <div class="box-root flex-flex" style="grid-area: 8 / 4 / auto / 6">
+              <div
+                class="box-root box-background--gray100 animationLeftRight tans3s"
+                style="flex-grow: 1"
+              ></div>
+            </div>
+            <div
+              class="box-root flex-flex"
+              style="grid-area: 2 / 15 / auto / end"
+            >
+              <div
+                class="box-root box-background--cyan200 animationRightLeft tans4s"
+                style="flex-grow: 1"
+              ></div>
+            </div>
+            <div
+              class="box-root flex-flex"
+              style="grid-area: 3 / 14 / auto / end"
+            >
+              <div
+                class="box-root box-background--blue animationRightLeft"
+                style="flex-grow: 1"
+              ></div>
+            </div>
+            <div
+              class="box-root flex-flex"
+              style="grid-area: 4 / 17 / auto / 20"
+            >
+              <div
+                class="box-root box-background--gray100 animationRightLeft tans4s"
+                style="flex-grow: 1"
+              ></div> 
+            </div>
+            <div
+              class="box-root flex-flex"
+              style="grid-area: 5 / 14 / auto / 17"
+            >
+              <div
+                class="box-root box-divider--light-all-2 animationRightLeft tans3s"
+                style="flex-grow: 1"
+              ></div>
+            </div>
+          </div>
+        </div>
+        <div
+          class="box-root padding-top--0 flex-flex flex-direction--column"
+          style="flex-grow: 1; z-index: 9"
+        >
+          <div class="container">
+            <div>{% include 'sidebar.html' %}</div>
+
+            <div class="rec-form">
+              <h1>Trekking Recommendation Form</h1>
+
+              <div class="center-box">
+                <!-- Glowing border box -->
+                <div class="animated-border-box"></div>
+
+                <form id="trekForm">
+                  <label for="trek">Select Trek</label>
+                  <select id="trek" name="trek">
+                    <option value="1">Annapurna Base Camp</option>
+                    <option value="2">Everest Base Camp</option>
+                    <option value="3">Ghorepani Poon Hill</option>
+                    <option value="4">Gokyo Lake</option>
+                    <option value="5">Helambu</option>
+                    <option value="6">Kanchenjunga</option>
+                    <option value="7">Langtang</option>
+                    <option value="8">Makalu</option>
+                    <option value="9">Manaslu</option>
+                    <option value="10">Mardi</option>
+                    <option value="11">Narphu</option>
+                    <option value="12">Rara Lake</option>
+                    <option value="13">Upper Mustang</option>
+                  </select>
+
+                  <div>
+                    <label for="age">Age</label>
+                    <input
+                      type="number"
+                      id="age"
+                      name="age"
+                      min="12"
+                      max="100"
+                      required
+                    />
+                  </div>
+
+                  <label for="fitnessLevel">Fitness Level</label>
+                  <select id="fitnessLevel" name="fitnessLevel">
+                    <option value="1">Beginner</option>
+                    <option value="2">Intermediate</option>
+                    <option value="3">Advanced</option>
+                  </select>
+
+                  <label for="healthIncidents">Any health incidents?</label>
+                  <select id="healthIncidents" name="healthIncidents">
+                    <option value="1">Yes</option>
+                    <option value="0">No</option>
+                  </select>
+
+                  <label for="trekGroupSize">Preferred Trek Group Size</label>
+                  <input
+                    type="number"
+                    id="trekGroupSize"
+                    name="trekGroupSize"
+                    min="1"
+                    required
+                  />
+
+                  <label for="guideRequired">Guide Required?</label>
+                  <select id="guideRequired" name="guideRequired">
+                    <option value="1">Yes</option>
+                    <option value="0">No</option>
+                  </select>
+
+                  <button class="submit" type="submit">
+                    Submit and Predict Recommendation
+                  </button>
+                </form>
+
+                <div class="loading-spinner"></div>
+              </div>
+            </div>
+
+            <!-- Modal for showing result -->
+            <div class="modal" id="resultModal">
+              <div class="modal-content">
+                <p class="result-message" id="resultMessage"></p>
+                <button class="close-modal" id="closeModal">Close</button>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <script src="{{ url_for('static', filename='js/trek-recommendation.js')}}"></script>
+  </body>
+</html>

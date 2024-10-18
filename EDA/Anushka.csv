@@ -1,0 +1,384 @@
+,Trek,Cost,Time,Trip Grade,Max Altitude,Accommodation,Best Travel Time,Date of Travel,Sex,Age,Annual Income,Frequent Flyer,Country,Fitness Level,Weather Conditions,Trekking Group Size,Guide/No Guide,Purpose of Travel,Review/Satisfaction,Spring,Summer,Autumn,Winter
+0,Everest Base Camp Trek,1420.0,16,3,5545 ,Hotel/Guesthouse,Mar - May & Sep - Dec,2022-09-13,Other,31,400000,0,Unknown,Intermediate,Clear,10.0,Guide,Leisure,4.5,1,0,1,1
+1,Everest Base Camp Short Trek,1295.0,14,3,5545 ,Hotel/Guesthouse,Mar - May & Sep - Dec,2021-09-04,Female,31,1250000,0,Afghanistan,Unknown,Clear,8.0,Unknown,Unknown,4.0,1,0,1,1
+2,Everest Base Camp Heli Shuttle Trek,2000.0,12,3,5545 ,Hotel/Guesthouse,Mar - May & Sep - Dec,2021-01-25,Female,34,500000,0,Albania,Advanced,Snowy,12.0,Guide,Charity,5.0,1,0,1,1
+3,Everest Base Camp Heli Trek,3300.0,11,3,5545 ,Hotel/Guesthouse,Mar - May & Sep - Dec,2022-01-28,Other,28,700000,0,Algeria,Intermediate,Clear,5.0,Guide,Leisure,4.0,1,0,1,1
+4,Everest Base Camp Trek for Seniors,1800.0,20,3,5545 ,Hotel/Guesthouse,Mar - May & Sep - Dec,2021-10-21,Other,28,700000,1,Russia,Beginner,Cloudy,6.0,No Guide,Adventure,3.5,1,0,1,1
+5,Everest Chola Pass Trek,1720.0,19,5,5545 ,Hotel/Guesthouse,Mar - May & Sep - Dec,2022-01-25,Other,25,1150000,0,Angola,Intermediate,Clear,10.0,Guide,Leisure,4.5,1,0,1,1
+6,Gokyo Lake Renjo La Pass Trek,1450.0,16,3,5360 ,Hotel/Guesthouse,Mar - May & Sep - Dec,2022-08-07,Male,31,1300000,0,Antigua and Barbuda,Unknown,Rainy,8.0,Unknown,Unknown,4.0,1,0,1,1
+7,Everest High Passes Trek,1950.0,22,5,5545 ,Hotel/Guesthouse,Apr - May & Sep - Nov,2021-01-04,Other,31,1350000,1,Azerbaijan,Advanced,Snowy,12.0,Guide,Charity,5.0,1,0,1,0
+8,Short Everest Trek,1060.0,7,1,3900 ,Hotel/Guesthouse,Mar - May & Sep - Dec,2022-06-28,Female,28,1450000,1,Argentina,Intermediate,Clear,5.0,Guide,Leisure,4.0,1,0,1,1
+9,Everest Panorama Trek,1150.0,10,1,3860 ,Hotel/Guesthouse,Jan - May & Sep - Dec,2020-01-31,Female,33,800000,1,Australia,Beginner,Cloudy,6.0,No Guide,Adventure,3.5,1,0,1,1
+10,Everest View Trek,1100.0,9,1,3860 ,Hotel/Guesthouse,Jan - May & Sep - Dec,2020-10-11,Other,31,400000,0,Austria,Intermediate,Clear,10.0,Guide,Leisure,4.5,1,0,1,1
+11,Luxury Everest Base Camp Heli Trek,4200.0,11,3,5545 ,Hotel/Teahouse,Mar - May & Sep - Dec,2020-11-14,Other,26,1400000,1,Bahamas,Beginner,Rainy,8.0,No Guide,Adventure,3.0,1,0,1,1
+12,Everest Base Camp Trek with Chola and Renjo La Pass,1900.0,21,5,5545 ,Hotel/Guesthouse,Mar - May & Sep - Nov,2022-03-03,Male,32,850000,0,Barrane,Advanced,Snowy,12.0,Guide,Charity,5.0,1,0,1,0
+13,Annapurna Base Camp Trek,1090.0,14,3,4210 ,Hotel/Guesthouse,Mar - May & Sep - Dec,2020-12-03,Other,31,1500000,1,Bangladesh,Intermediate,Clear,5.0,Guide,Leisure,4.0,1,0,1,1
+14,Annapurna Base Camp Short Trek,1090.0,11,1,4210 ,Hotel/Teahouse,Mar - May & Sep - Dec,2022-03-17,Male,31,400000,0,Armenia,Beginner,Cloudy,6.0,No Guide,Adventure,3.5,1,0,1,1
+15,Instant Annapurna Base Camp Trek,980.0,9,3,4230 ,Hotel/Guesthouse,Mar - May & Sep - Dec,2023-08-21,Male,34,700000,0,Barbados,Intermediate,Clear,10.0,Guide,Leisure,4.5,1,0,1,1
+16,Annapurna Base Camp Heli Trek,1750.0,9,1,4210 ,Hotel/Teahouse,Mar - May & Sep - Dec,2022-10-07,Male,28,1150000,0,Belgium,Beginner,Rainy,8.0,No Guide,Adventure,3.0,1,0,1,1
+17,Mardi Himal Trek,850.0,9,1,4200 ,Hotel/Guesthouse,Mar - May & Sep - Dec,2022-06-16,Male,28,800000,0,Bhutan,Advanced,Snowy,12.0,Guide,Charity,5.0,1,0,1,1
+18,Mardi Himal Trekking,850.0,8,1,4200 ,Hotel/Guesthouse,Mar - May & Sep - Dec,2021-12-15,Other,29,1050000,0,Bolivia,Intermediate,Clear,5.0,Guide,Leisure,4.0,1,0,1,1
+19,Classic Annapurna Circuit Trek,1350.0,18,3,5416 ,Hotel/Teahouse,Mar - May & Sep - Nov,2021-02-22,Female,34,1500000,1,Bosnia and Herzegovina,Beginner,Cloudy,6.0,No Guide,Adventure,3.5,1,0,1,0
+20,Annapurna Circuit Trek,1250.0,14,3,5416 ,Hotel/Teahouse,Mar - May & Sep - Dec,2020-05-06,Other,28,1150000,1,Botswana,Intermediate,Clear,10.0,Guide,Leisure,4.5,1,0,1,1
+21,Annapurna Circuit Short Trek,1250.0,12,5,5416 ,Hotel/Guesthouse,Mar - May & Sep - Nov,2020-08-06,Other,29,350000,0,Brazil,Beginner,Rainy,8.0,No Guide,Adventure,3.0,1,0,1,0
+22,Annapurna Luxury Trek,1450.0,9,1,2012,Luxury Lodge,Mar - May & Sep - Dec,2021-06-18,Other,31,1100000,0,Belize,Advanced,Snowy,12.0,Guide,Charity,5.0,1,0,1,1
+23,Annapurna Panorama Trek,860.0,9,0,3210 ,Hotel/Teahouse,Jan - May & Sep - Dec,2021-08-01,Male,28,600000,0,Solomon,Intermediate,Clear,5.0,Guide,Leisure,4.0,1,0,1,1
+24,Annapurna Tilicho Lake Trek,1450.0,17,5,5416 ,Hotel/Guesthouse,Mar - May & Sep - Nov,2020-06-12,Male,31,1500000,1,Brunei,Beginner,Cloudy,6.0,No Guide,Adventure,3.5,1,0,1,0
+25,Short Annapurna Trek,590.0,5,0,1990 ,Lodge,Jan - May & Sep - Dec,2022-01-13,Male,35,800000,0,Bulgaria,Intermediate,Clear,10.0,Guide,Leisure,4.5,1,0,1,1
+26,Manaslu Circuit Trek,1450.0,15,5,5106 ,Hotel/Guesthouse,Mar - May & Sep - Nov,2023-04-01,Male,34,1300000,1,Myanmar,Beginner,Rainy,8.0,No Guide,Adventure,3.0,1,0,1,0
+27,Manaslu Circuit Trekking,1380.0,14,3,5220 ,Hotel/Teahouse,Mar - May & Sep - Nov,2020-10-06,Other,28,1250000,1,Brush,Advanced,Snowy,12.0,Guide,Charity,5.0,1,0,1,0
+28,Tsum Valley with Manaslu Trek,1850.0,20,5,5220 ,Hotel/Guesthouse,Mar - May & Sep - Nov,2023-07-07,Male,26,600000,1,Belarus,Intermediate,Clear,5.0,Guide,Leisure,4.0,1,0,1,0
+29,Upper Mustang Trek,2150.0,17,1,4210 ,Hotel/Guesthouse,Mar - May & Sep - Nov,2020-10-14,Male,31,900000,0,Cambodia,Beginner,Cloudy,6.0,No Guide,Adventure,3.5,1,0,1,0
+30,Upper Mustang Trek with Yara,2300.0,18,1,4200 ,Lodge,Mar - Nov,2022-07-23,Other,30,550000,1,Cameroon,Intermediate,Clear,10.0,Guide,Leisure,4.5,1,1,1,0
+31,Upper Mustang Tiji Festival Trek,2150.0,18,1,4210 ,Hotel/Teahouse,Mar - May & Sep - Nov,2022-07-09,Other,31,300000,0,Canada,Beginner,Rainy,8.0,No Guide,Adventure,3.0,1,0,1,0
+32,Langtang Valley Trek,750.0,10,1,5050 ,Hotel/Teahouse,Mar - May & Sep - Dec,2021-10-21,Female,25,750000,0,Cabo Verde,Advanced,Snowy,12.0,Guide,Charity,5.0,1,0,1,1
+33,Langtang Gosaikunda Trek,1180.0,16,1,4600,Hotel/Guesthouse,Mar - May & Sep - Dec,2022-04-11,Male,32,850000,0,Central Africa,Intermediate,Clear,5.0,Guide,Leisure,4.0,1,0,1,1
+34,Tamang Heritage Trek,920.0,14,1,5050 ,Hotel/Guesthouse,Mar - May & Sep - Dec,2022-11-24,Female,28,800000,0,Sri Lanka,Beginner,Cloudy,6.0,No Guide,Adventure,3.5,1,0,1,1
+35,Tamang Heritage Trail,750.0,8,0,2607 ,Teahouse/Lodge,Jan - May & Sep - Dec,2022-03-03,Other,33,1400000,1,Chad,Intermediate,Clear,10.0,Guide,Leisure,4.5,1,0,1,1
+36,Helambu Trek,780.0,9,0,3650 ,Hotel/Guesthouse,Jan - May & Sep - Dec,2020-01-24,Male,31,300000,0,Chile,Beginner,Rainy,8.0,No Guide,Adventure,3.0,1,0,1,1
+37,Annapurna Base Camp Trek,1499.0,11,4,4130,Hotel/Guesthouse,Jan - May & Sep - Dec,2020-04-20,Other,34,700000,0,China,Unknown,Clear,8.0,Unknown,Unknown,4.0,1,0,1,1
+38,Everest Base Camp Trek for Youths,1750.0,14,4,5545,Hotel/Guesthouse,Jan - May & Sep - Dec,2020-08-27,Female,34,1100000,0,Taiwan,Intermediate,Clear,5.0,Guide,Leisure,4.0,1,0,1,1
+39,Everest Base Camp Short Trek,1499.0,14,4,5545,Hotel/Guesthouse,Jan - May & Sep - Dec,2022-05-08,Female,33,1500000,1,Columbia,Beginner,Cloudy,6.0,No Guide,Adventure,3.5,1,0,1,1
+40,Everest Base Camp Trek,1499.0,16,4,5545,Hotel/Guesthouse,Jan - May & Sep - Dec,2020-06-11,Other,25,1400000,1,Komoro,Intermediate,Clear,10.0,Guide,Leisure,4.5,1,0,1,1
+41,Annapurna Circuit Trek,1499.0,17,4,5416,Hotel/Guesthouse,Jan - May & Sep - Dec,2020-07-15,Other,33,550000,0,Congo,Beginner,Rainy,8.0,No Guide,Adventure,3.0,1,0,1,1
+42,Everest Base Camp Luxury Lodge Trek,1499.0,15,4,5545,Hotel/Guesthouse,Jan - May & Sep - Dec,2020-01-19,Male,26,1500000,1,Congo Democratic Republic,Advanced,Snowy,12.0,Guide,Charity,5.0,1,0,1,1
+43,Everest Base Camp Trek via Gokyo Lakes and Cho La Pass,1499.0,18,4,5545,Hotel/Guesthouse,Jan - May & Sep - Dec,2022-02-07,Other,28,1200000,1,Costa Rica,Intermediate,Clear,5.0,Guide,Leisure,4.0,1,0,1,1
+44,Upper Mustang Trek,1499.0,17,4,3870,Hotel/Guesthouse,Jan - May & Sep - Dec,2022-03-23,Female,25,1400000,0,Croatia,Beginner,Cloudy,6.0,No Guide,Adventure,3.5,1,0,1,1
+45,Everest Advanced Base Camp Trek from Tibet,1499.0,18,4,6340,Hotel/Guesthouse,Jan - May & Sep - Dec,2021-08-19,Other,34,1400000,0,Cuba,Unknown,Rainy,8.0,Unknown,Unknown,4.0,1,0,1,1
+46,Gokyo Lakes and Gokyo Ri Trek,1499.0,14,4,5357,Hotel/Guesthouse,Jan - May & Sep - Dec,2023-05-23,Female,25,1400000,0,Cyprus,Beginner,Rainy,8.0,No Guide,Adventure,3.0,1,0,1,1
+47,Mardi Himal Trek,1499.0,10,3,3540,Hotel/Guesthouse,Jan - May & Sep - Dec,2020-11-03,Female,35,1100000,0,Czech Republic,Advanced,Snowy,12.0,Guide,Charity,5.0,1,0,1,1
+48,Manaslu Circuit Trek,1499.0,18,4,5160,Hotel/Guesthouse,Jan - May & Sep - Dec,2020-03-26,Other,28,600000,0,Benin,Intermediate,Clear,5.0,Guide,Leisure,4.0,1,0,1,1
+49,Langtang Valley Trek,1499.0,11,4,5000,Hotel/Guesthouse,Jan - May & Sep - Dec,2021-09-10,Female,31,1350000,0,Denmark,Beginner,Cloudy,6.0,No Guide,Adventure,3.5,1,0,1,1
+50,Annapurna Sanctuary Trek,1499.0,14,4,4130,Hotel/Guesthouse,Jan - May & Sep - Dec,2020-01-24,Male,31,1250000,0,Dominica,Intermediate,Clear,10.0,Guide,Leisure,4.5,1,0,1,1
+51,Rara Lake Trek,1499.0,15,3,3055,Hotel/Guesthouse,Jan - May & Sep - Dec,2022-07-28,Other,29,1050000,0,Dominican Republic,Beginner,Rainy,8.0,No Guide,Adventure,3.0,1,0,1,1
+52,Everest High Passes Trek,1499.0,20,4,5546,Hotel/Guesthouse,Jan - May & Sep - Dec,2020-07-08,Female,31,1250000,0,Ecuador,Unknown,Rainy,8.0,Unknown,Unknown,4.0,1,0,1,1
+53,Kanchenjunga Circuit Trek,1499.0,25,4,5143,Hotel/Guesthouse,Jan - May & Sep - Dec,2021-10-15,Other,28,300000,0,El Salvador,Intermediate,Clear,5.0,Guide,Leisure,4.0,1,0,1,1
+54,Everest View Trek,1499.0,12,2,3870,Hotel/Guesthouse,Jan - May & Sep - Dec,2021-01-21,Female,29,1200000,0,Equatorial Guinea,Beginner,Cloudy,6.0,No Guide,Adventure,3.5,1,0,1,1
+55,Tsum Valley Trek,1499.0,19,4,6000,Hotel/Guesthouse,Jan - May & Sep - Dec,2021-11-01,Male,26,750000,0,Ethiopia,Intermediate,Clear,10.0,Guide,Leisure,4.5,1,0,1,1
+56,The Royal Trek,1499.0,9,3,1730,Hotel/Guesthouse,Jan - May & Sep - Dec,2022-03-14,Other,28,550000,0,Eritrea,Beginner,Rainy,8.0,No Guide,Adventure,3.0,1,0,1,1
+57,Makalu Base Camp Trek,1499.0,22,5,4870,Hotel/Guesthouse,Jan - May & Sep - Dec,2020-09-20,Other,34,1000000,0,Estonia,Advanced,Snowy,12.0,Guide,Charity,5.0,1,0,1,1
+58,"Langtang, Gosainkunda and Helambu Trek",1499.0,17,3,5000,Hotel/Guesthouse,Jan - May & Sep - Dec,2021-01-01,Male,33,1400000,1,Georgia,Intermediate,Clear,5.0,Guide,Leisure,4.0,1,0,1,1
+59,Nar Phu Valley Trek,1499.0,19,4,5416,Hotel/Guesthouse,Jan - May & Sep - Dec,2023-02-28,Female,33,1400000,1,Fiji,Beginner,Cloudy,6.0,No Guide,Adventure,3.5,1,0,1,1
+60,Annapurna Circle Trek,1499.0,14,4,5416,Hotel/Guesthouse,Jan - May & Sep - Dec,2023-01-11,Male,31,1250000,1,Finland,Intermediate,Clear,10.0,Guide,Leisure,4.5,1,0,1,1
+61,Everest Kangshung Face Trek,1499.0,21,5,5320,Hotel/Guesthouse,Jan - May & Sep - Dec,2021-10-11,Other,32,800000,1,France,Beginner,Rainy,8.0,No Guide,Adventure,3.0,1,0,1,1
+62,Tsum Valley and Manaslu Trek,1499.0,27,4,4460,Hotel/Guesthouse,Jan - May & Sep - Dec,2020-03-04,Male,28,800000,1,Djibouti,Advanced,Snowy,12.0,Guide,Charity,5.0,1,0,1,1
+63,Khopra Ridge Community Trek,1499.0,13,4,4500,Hotel/Guesthouse,Jan - May & Sep - Dec,2023-03-09,Female,27,500000,0,Gabon,Intermediate,Clear,5.0,Guide,Leisure,4.0,1,0,1,1
+64,Nepal Experience Tour,1499.0,12,1,3210,Hotel/Guesthouse,Jan - May & Sep - Dec,2021-11-23,Female,30,1450000,1,Gambia,Beginner,Cloudy,6.0,No Guide,Adventure,3.5,1,0,1,1
+65,Annapurna Circuit Trek with Tilicho Lake and Poon Hill,1499.0,20,4,5416,Hotel/Guesthouse,Jan - May & Sep - Dec,2021-10-29,Female,26,600000,0,Palestine,Unknown,Clear,8.0,Unknown,Unknown,4.0,1,0,1,1
+66,Annapurna With Tilicho Lake Trek,1499.0,17,4,5416,Hotel/Guesthouse,Jan - May & Sep - Dec,2021-02-13,Female,30,800000,1,Germany,Beginner,Rainy,8.0,No Guide,Adventure,3.0,1,0,1,1
+67,Langtang Valley Trek with Ganja la Pass,1499.0,14,5,5122,Hotel/Guesthouse,Jan - May & Sep - Dec,2021-04-27,Male,34,1500000,1,Ghana,Advanced,Snowy,12.0,Guide,Charity,5.0,1,0,1,1
+68,Tamang Heritage Trek,1499.0,14,3,3870,Hotel/Guesthouse,Jan - May & Sep - Dec,2022-04-10,Female,29,350000,0,Kiribati,Unknown,Clear,8.0,Unknown,Unknown,4.0,1,0,1,1
+69,Manaslu and Annapurna Trek with Tilicho Lake,1499.0,25,4,5416,Hotel/Guesthouse,Jan - May & Sep - Dec,2021-04-18,Female,31,300000,0,Greece,Beginner,Cloudy,6.0,No Guide,Adventure,3.5,1,0,1,1
+70,Nepal Trekking and Everest Himalaya Heli Tour,1499.0,7,3,5545,Hotel/Guesthouse,Jan - May & Sep - Dec,2021-12-02,Other,34,1300000,0,Grenada,Intermediate,Clear,10.0,Guide,Leisure,4.5,1,0,1,1
+71,Nepal Hiking and Culture Tour,1499.0,8,3,1550,Hotel/Guesthouse,Jan - May & Sep - Dec,2021-05-30,Other,28,750000,1,Guatemala,Beginner,Rainy,8.0,No Guide,Adventure,3.0,1,0,1,1
+72,Annapurna Sunrise and Everest View Trek,1499.0,17,3,3870,Hotel/Guesthouse,Jan - May & Sep - Dec,2023-05-16,Other,28,800000,1,Guinea,Advanced,Snowy,12.0,Guide,Charity,5.0,1,0,1,1
+73,Tenzing Hillary Everest Marathon,1499.0,20,5,5545,Hotel/Guesthouse,Jan - May & Sep - Dec,2022-10-13,Male,28,750000,1,Gaiana,Intermediate,Clear,5.0,Guide,Leisure,4.0,1,0,1,1
+74,Everest Base Camp Trek,1450.0,16,4,5545,Hotel/Guesthouse,Jan - May & Sep - Dec,2023-04-28,Other,28,700000,0,Haiti,Beginner,Cloudy,6.0,No Guide,Adventure,3.5,1,0,1,1
+75,Everest Kalapathar Trekking,1390.0,15,4,5545,Hotel/Guesthouse,Jan - May & Sep - Dec,2020-09-16,Other,34,1300000,0,Honduras,Intermediate,Clear,10.0,Guide,Leisure,4.5,1,0,1,1
+76,Everest Panorama Trek,1040.0,10,2,3860,Hotel/Guesthouse,Jan - May & Sep - Dec,2023-03-24,Other,29,1200000,0,China (Hong Kong),Beginner,Rainy,8.0,No Guide,Adventure,3.0,1,0,1,1
+77,Everest Base Camp Trek via Gokyo Lake,1530.0,19,4,5545,Hotel/Guesthouse,Jan - May & Sep - Dec,2022-01-01,Other,31,400000,0,Hong Kong DI,Advanced,Snowy,12.0,Guide,Charity,5.0,1,0,1,1
+78,Gokyo Lake Trek,1190.0,13,3,5357,Hotel/Guesthouse,Jan - May & Sep - Dec,2020-07-09,Female,31,1300000,0,Hong Kong SAR,Intermediate,Clear,5.0,Guide,Leisure,4.0,1,0,1,1
+79,Everest Base Camp Heli Trek,3600.0,9,3,5545,Hotel/Guesthouse,Jan - May & Sep - Dec,2020-12-04,Female,31,400000,0,Hungary,Beginner,Cloudy,6.0,No Guide,Adventure,3.5,1,0,1,1
+80,Annapurna Circuit Trek,1100.0,19,4,5416,Hotel/Guesthouse,Jan - May & Sep - Dec,2021-01-13,Female,26,1300000,0,Iceland,Intermediate,Clear,10.0,Guide,Leisure,4.5,1,0,1,1
+81,Annapurna Base Camp Trek,1090.0,16,3,4130,Hotel/Guesthouse,Jan - May & Sep - Dec,2021-08-25,Female,25,1150000,0,India,Beginner,Rainy,8.0,No Guide,Adventure,3.0,1,0,1,1
+82,Ghorepani Poon Hill Trek,450.0,10,0,3210,Hotel/Guesthouse,Jan - May & Sep - Dec,2023-03-08,Other,28,1250000,0,Indonesia,Advanced,Snowy,12.0,Guide,Charity,5.0,1,0,1,1
+83,Upper Mustang Trek,2100.0,17,4,4200,Hotel/Guesthouse,Jan - May & Sep - Dec,2021-09-03,Male,34,950000,1,Iran,Intermediate,Clear,5.0,Guide,Leisure,4.0,1,0,1,1
+84,Mardi Himal Trek,590.0,9,2,4500,Hotel/Guesthouse,Jan - May & Sep - Dec,2021-05-09,Female,32,350000,0,Iraq,Beginner,Cloudy,6.0,No Guide,Adventure,3.5,1,0,1,1
+85,Langtang Valley Trekking,690.0,11,3,4773,Hotel/Guesthouse,Jan - May & Sep - Dec,2023-01-17,Female,25,1700000,1,Ireland,Intermediate,Clear,10.0,Guide,Leisure,4.5,1,0,1,1
+86,Manaslu Circuit Trek,1190.0,17,4,5220,Hotel/Guesthouse,Jan - May & Sep - Dec,2023-01-11,Male,32,900000,0,Israel,Beginner,Rainy,8.0,No Guide,Adventure,3.0,1,0,1,1
+87,Annapurna Base Camp Trek,1090.0,14,3,4210 ,Hotel/Guesthouse,Mar - May & Sep - Dec,2022-07-29,Other,28,300000,0,Italy,Advanced,Snowy,12.0,Guide,Charity,5.0,1,0,1,1
+88,Annapurna Base Camp Short Trek,1090.0,11,1,4210 ,Hotel/Teahouse,Mar - May & Sep - Dec,2023-06-04,Other,34,1050000,0,Côte d'Ivoire,Intermediate,Clear,5.0,Guide,Leisure,4.0,1,0,1,1
+89,Instant Annapurna Base Camp Trek,980.0,9,3,4230 ,Hotel/Guesthouse,Mar - May & Sep - Dec,2022-11-22,Male,28,300000,0,Jamaica,Beginner,Cloudy,6.0,No Guide,Adventure,3.5,1,0,1,1
+90,Annapurna Base Camp Heli Trek,1750.0,9,1,4210 ,Hotel/Teahouse,Mar - May & Sep - Dec,2023-08-07,Other,27,1050000,0,Kazakhstan,Unknown,Rainy,8.0,Unknown,Unknown,4.0,1,0,1,1
+91,Mardi Himal Trek,850.0,9,1,4200 ,Hotel/Guesthouse,Mar - May & Sep - Dec,2022-04-15,Other,28,300000,0,Jordan,Beginner,Rainy,8.0,No Guide,Adventure,3.0,1,0,1,1
+92,Mardi Himal Trekking,850.0,8,1,4200 ,Hotel/Guesthouse,Mar - May & Sep - Dec,2022-04-11,Other,28,1150000,0,Kenya,Advanced,Snowy,12.0,Guide,Charity,5.0,1,0,1,1
+93,Classic Annapurna Circuit Trek,1350.0,18,3,5416 ,Hotel/Teahouse,Mar - May & Sep - Nov,2021-09-26,Other,33,700000,1,north korea,Intermediate,Clear,5.0,Guide,Leisure,4.0,1,0,1,0
+94,Annapurna Circuit Trek,1250.0,14,3,5416 ,Hotel/Teahouse,Mar - May & Sep - Dec,2020-01-08,Male,34,1300000,0,South Korea,Beginner,Cloudy,6.0,No Guide,Adventure,3.5,1,0,1,1
+95,Annapurna Circuit Short Trek,1250.0,12,5,5416 ,Hotel/Guesthouse,Mar - May & Sep - Nov,2020-12-23,Female,26,1400000,0,Kuwait,Intermediate,Clear,10.0,Guide,Leisure,4.5,1,0,1,0
+96,Annapurna Luxury Trek,1450.0,9,1,2012,Luxury Lodge,Mar - May & Sep - Dec,2020-08-20,Male,28,700000,0,Kyrgyzstan,Beginner,Rainy,8.0,No Guide,Adventure,3.0,1,0,1,1
+97,Annapurna Panorama Trek,860.0,9,0,3210 ,Hotel/Teahouse,Jan - May & Sep - Dec,2022-03-27,Male,29,350000,0,Laos,Advanced,Snowy,12.0,Guide,Charity,5.0,1,0,1,1
+98,Annapurna Tilicho Lake Trek,1450.0,17,5,5416 ,Hotel/Guesthouse,Mar - May & Sep - Nov,2022-03-24,Male,29,1100000,0,Lebanon,Intermediate,Clear,5.0,Guide,Leisure,4.0,1,0,1,0
+99,Short Annapurna Trek,590.0,5,0,1990 ,Lodge,Jan - May & Sep - Dec,2020-07-15,Female,29,600000,0,Lesot,Beginner,Cloudy,6.0,No Guide,Adventure,3.5,1,0,1,1
+100,Manaslu Circuit Trek,1450.0,15,5,5106 ,Hotel/Guesthouse,Mar - May & Sep - Nov,2021-09-07,Male,28,1300000,0,Latvia,Intermediate,Clear,10.0,Guide,Leisure,4.5,1,0,1,0
+101,Manaslu Circuit Trekking,1380.0,14,3,5220 ,Hotel/Teahouse,Mar - May & Sep - Nov,2021-08-18,Other,33,1500000,1,Liberia,Beginner,Rainy,8.0,No Guide,Adventure,3.0,1,0,1,0
+102,Tsum Valley with Manaslu Trek,1850.0,20,5,5220 ,Hotel/Guesthouse,Mar - May & Sep - Nov,2023-06-10,Male,29,500000,0,Libya,Advanced,Snowy,12.0,Guide,Charity,5.0,1,0,1,0
+103,Upper Mustang Trek,2150.0,17,1,4210 ,Hotel/Guesthouse,Mar - May & Sep - Nov,2023-04-19,Other,26,1400000,0,Liechtenstein,Intermediate,Clear,5.0,Guide,Leisure,4.0,1,0,1,0
+104,Upper Mustang Trek with Yara,2300.0,18,1,4200 ,Lodge,Mar - Nov,2020-02-29,Female,28,1150000,0,Lithuania,Beginner,Cloudy,6.0,No Guide,Adventure,3.5,1,1,1,0
+105,Upper Mustang Tiji Festival Trek,2150.0,18,1,4210 ,Hotel/Teahouse,Mar - May & Sep - Nov,2020-02-20,Other,28,750000,0,Luxembourg,Intermediate,Clear,10.0,Guide,Leisure,4.5,1,0,1,0
+106,Langtang Valley Trek,750.0,10,1,5050 ,Hotel/Teahouse,Mar - May & Sep - Dec,2022-01-04,Male,34,1300000,0,Macau,Beginner,Rainy,8.0,No Guide,Adventure,3.0,1,0,1,1
+107,Langtang Gosaikunda Trek,1180.0,16,1,4600,Hotel/Guesthouse,Mar - May & Sep - Dec,2021-07-07,Male,34,850000,0,Macau,Advanced,Snowy,12.0,Guide,Charity,5.0,1,0,1,1
+108,Tamang Heritage Trek,920.0,14,1,5050 ,Hotel/Guesthouse,Mar - May & Sep - Dec,2023-01-29,Other,26,1300000,0,Madagascar,Intermediate,Clear,5.0,Guide,Leisure,4.0,1,0,1,1
+109,Tamang Heritage Trail,750.0,8,0,2607 ,Teahouse/Lodge,Jan - May & Sep - Dec,2020-08-17,Other,25,1700000,1,Malawi,Beginner,Cloudy,6.0,No Guide,Adventure,3.5,1,0,1,1
+110,Helambu Trek,780.0,9,0,3650 ,Hotel/Guesthouse,Jan - May & Sep - Dec,2022-06-10,Male,31,400000,0,Malaysia,Intermediate,Clear,10.0,Guide,Leisure,4.5,1,0,1,1
+111,Annapurna Base Camp Trek,1499.0,11,4,4130,Hotel/Guesthouse,Jan - May & Sep - Dec,2021-05-09,Female,28,800000,0,Maldives,Beginner,Rainy,8.0,No Guide,Adventure,3.0,1,0,1,1
+112,Everest Base Camp Trek for Youths,1750.0,14,4,5545,Hotel/Guesthouse,Jan - May & Sep - Dec,2023-04-07,Female,30,800000,0,Mari,Advanced,Snowy,12.0,Guide,Charity,5.0,1,0,1,1
+113,Everest Base Camp Short Trek,1499.0,14,4,5545,Hotel/Guesthouse,Jan - May & Sep - Dec,2023-04-05,Other,29,900000,1,Malta,Intermediate,Clear,5.0,Guide,Leisure,4.0,1,0,1,1
+114,Everest Base Camp Trek,1499.0,16,4,5545,Hotel/Guesthouse,Jan - May & Sep - Dec,2020-07-22,Male,29,500000,0,Mauritania,Beginner,Cloudy,6.0,No Guide,Adventure,3.5,1,0,1,1
+115,Annapurna Circuit Trek,1499.0,17,4,5416,Hotel/Guesthouse,Jan - May & Sep - Dec,2022-05-10,Male,29,900000,0,Mauritius,Intermediate,Clear,10.0,Guide,Leisure,4.5,1,0,1,1
+116,Everest Base Camp Luxury Lodge Trek,1499.0,15,4,5545,Hotel/Guesthouse,Jan - May & Sep - Dec,2020-01-03,Male,28,1150000,0,Mexico,Beginner,Rainy,8.0,No Guide,Adventure,3.0,1,0,1,1
+117,Everest Base Camp Trek via Gokyo Lakes and Cho La Pass,1499.0,18,4,5545,Hotel/Guesthouse,Jan - May & Sep - Dec,2020-01-17,Female,31,400000,0,Monaco,Advanced,Snowy,12.0,Guide,Charity,5.0,1,0,1,1
+118,Upper Mustang Trek,1499.0,17,4,3870,Hotel/Guesthouse,Jan - May & Sep - Dec,2022-05-22,Other,31,1500000,1,Mongolia,Intermediate,Clear,5.0,Guide,Leisure,4.0,1,0,1,1
+119,Everest Advanced Base Camp Trek from Tibet,1499.0,18,4,6340,Hotel/Guesthouse,Jan - May & Sep - Dec,2022-06-28,Other,31,500000,0,Moldova,Beginner,Cloudy,6.0,No Guide,Adventure,3.5,1,0,1,1
+120,Gokyo Lakes and Gokyo Ri Trek,1499.0,14,4,5357,Hotel/Guesthouse,Jan - May & Sep - Dec,2022-07-19,Other,28,800000,0,Montenegro,Intermediate,Clear,10.0,Guide,Leisure,4.5,1,0,1,1
+121,Mardi Himal Trek,1499.0,10,3,3540,Hotel/Guesthouse,Jan - May & Sep - Dec,2022-05-10,Other,26,1400000,0,Morocco,Beginner,Rainy,8.0,No Guide,Adventure,3.0,1,0,1,1
+122,Manaslu Circuit Trek,1499.0,18,4,5160,Hotel/Guesthouse,Jan - May & Sep - Dec,2020-08-28,Other,32,800000,0,Mozambique,Advanced,Snowy,12.0,Guide,Charity,5.0,1,0,1,1
+123,Langtang Valley Trek,1499.0,11,4,5000,Hotel/Guesthouse,Jan - May & Sep - Dec,2021-06-16,Other,27,850000,0,Oman,Intermediate,Clear,5.0,Guide,Leisure,4.0,1,0,1,1
+124,Annapurna Sanctuary Trek,1499.0,14,4,4130,Hotel/Guesthouse,Jan - May & Sep - Dec,2023-05-27,Other,32,350000,0,Namibia,Unknown,Clear,8.0,Unknown,Unknown,4.0,1,0,1,1
+125,Rara Lake Trek,1499.0,15,3,3055,Hotel/Guesthouse,Jan - May & Sep - Dec,2022-01-21,Other,29,500000,0,Naure,Intermediate,Clear,10.0,Guide,Leisure,4.5,1,0,1,1
+126,Everest High Passes Trek,1499.0,20,4,5546,Hotel/Guesthouse,Jan - May & Sep - Dec,2022-06-29,Female,32,800000,1,Nepal,Beginner,Rainy,8.0,No Guide,Adventure,3.0,1,0,1,1
+127,Kanchenjunga Circuit Trek,1499.0,25,4,5143,Hotel/Guesthouse,Jan - May & Sep - Dec,2020-11-01,Other,27,750000,0,Netherlands,Advanced,Snowy,12.0,Guide,Charity,5.0,1,0,1,1
+128,Everest View Trek,1499.0,12,2,3870,Hotel/Guesthouse,Jan - May & Sep - Dec,2021-12-02,Other,31,1350000,0,Vanuatu,Intermediate,Clear,5.0,Guide,Leisure,4.0,1,0,1,1
+129,Tsum Valley Trek,1499.0,19,4,6000,Hotel/Guesthouse,Jan - May & Sep - Dec,2021-03-28,Female,29,1050000,0,New Zealand,Beginner,Cloudy,6.0,No Guide,Adventure,3.5,1,0,1,1
+130,The Royal Trek,1499.0,9,3,1730,Hotel/Guesthouse,Jan - May & Sep - Dec,2021-01-29,Other,28,800000,0,Nicaragua,Intermediate,Clear,10.0,Guide,Leisure,4.5,1,0,1,1
+131,Makalu Base Camp Trek,1499.0,22,5,4870,Hotel/Guesthouse,Jan - May & Sep - Dec,2020-07-14,Other,28,750000,0,Nigeria,Beginner,Rainy,8.0,No Guide,Adventure,3.0,1,0,1,1
+132,"Langtang, Gosainkunda and Helambu Trek",1499.0,17,3,5000,Hotel/Guesthouse,Jan - May & Sep - Dec,2020-10-09,Female,28,1100000,0,Nigeria,Advanced,Snowy,12.0,Guide,Charity,5.0,1,0,1,1
+133,Nar Phu Valley Trek,1499.0,19,4,5416,Hotel/Guesthouse,Jan - May & Sep - Dec,2021-05-10,Other,25,1750000,0,Norway,Intermediate,Clear,5.0,Guide,Leisure,4.0,1,0,1,1
+134,Annapurna Circle Trek,1499.0,14,4,5416,Hotel/Guesthouse,Jan - May & Sep - Dec,2022-03-23,Female,28,600000,1,Micronesia,Beginner,Cloudy,6.0,No Guide,Adventure,3.5,1,0,1,1
+135,Everest Kangshung Face Trek,1499.0,21,5,5320,Hotel/Guesthouse,Jan - May & Sep - Dec,2022-10-28,Other,28,800000,0,Marshall,Intermediate,Clear,10.0,Guide,Leisure,4.5,1,0,1,1
+136,Tsum Valley and Manaslu Trek,1499.0,27,4,4460,Hotel/Guesthouse,Jan - May & Sep - Dec,2020-09-08,Other,29,500000,0,Palao,Beginner,Rainy,8.0,No Guide,Adventure,3.0,1,0,1,1
+137,Khopra Ridge Community Trek,1499.0,13,4,4500,Hotel/Guesthouse,Jan - May & Sep - Dec,2023-02-16,Other,29,600000,1,Pakistan,Advanced,Snowy,12.0,Guide,Charity,5.0,1,0,1,1
+138,Nepal Experience Tour,1499.0,12,1,3210,Hotel/Guesthouse,Jan - May & Sep - Dec,2022-07-04,Other,28,1150000,0,Panama,Intermediate,Clear,5.0,Guide,Leisure,4.0,1,0,1,1
+139,Annapurna Circuit Trek with Tilicho Lake and Poon Hill,1499.0,20,4,5416,Hotel/Guesthouse,Jan - May & Sep - Dec,2022-04-14,Other,35,800000,0,Papua New Guinea,Beginner,Cloudy,6.0,No Guide,Adventure,3.5,1,0,1,1
+140,Annapurna With Tilicho Lake Trek,1499.0,17,4,5416,Hotel/Guesthouse,Jan - May & Sep - Dec,2023-06-24,Other,28,550000,0,Paraguay,Unknown,Rainy,8.0,Unknown,Unknown,4.0,1,0,1,1
+141,Langtang Valley Trek with Ganja la Pass,1499.0,14,5,5122,Hotel/Guesthouse,Jan - May & Sep - Dec,2023-05-08,Other,25,1400000,0,Peru,Beginner,Rainy,8.0,No Guide,Adventure,3.0,1,0,1,1
+142,Tamang Heritage Trek,1499.0,14,3,3870,Hotel/Guesthouse,Jan - May & Sep - Dec,2022-05-26,Female,32,350000,0,Philippines,Advanced,Snowy,12.0,Guide,Charity,5.0,1,0,1,1
+143,Manaslu and Annapurna Trek with Tilicho Lake,1499.0,25,4,5416,Hotel/Guesthouse,Jan - May & Sep - Dec,2020-03-17,Other,26,1300000,0,Poland,Intermediate,Clear,5.0,Guide,Leisure,4.0,1,0,1,1
+144,Nepal Trekking and Everest Himalaya Heli Tour,1499.0,7,3,5545,Hotel/Guesthouse,Jan - May & Sep - Dec,2020-09-20,Male,31,1250000,0,Portugal,Beginner,Cloudy,6.0,No Guide,Adventure,3.5,1,0,1,1
+145,Nepal Hiking and Culture Tour,1499.0,8,3,1550,Hotel/Guesthouse,Jan - May & Sep - Dec,2021-11-17,Other,28,1150000,0,Guinea-Bissau,Intermediate,Clear,10.0,Guide,Leisure,4.5,1,0,1,1
+146,Annapurna Sunrise and Everest View Trek,1499.0,17,3,3870,Hotel/Guesthouse,Jan - May & Sep - Dec,2022-06-30,Male,30,750000,0,East Timor Democratic Republic,Beginner,Rainy,8.0,No Guide,Adventure,3.0,1,0,1,1
+147,Tenzing Hillary Everest Marathon,1499.0,20,5,5545,Hotel/Guesthouse,Jan - May & Sep - Dec,2020-09-17,Other,31,400000,0,Qatar,Advanced,Snowy,12.0,Guide,Charity,5.0,1,0,1,1
+148,Everest Base Camp Trek,1450.0,16,4,5545,Hotel/Guesthouse,Jan - May & Sep - Dec,2023-03-31,Other,25,1400000,0,Romania,Intermediate,Clear,5.0,Guide,Leisure,4.0,1,0,1,1
+149,Everest Kalapathar Trekking,1390.0,15,4,5545,Hotel/Guesthouse,Jan - May & Sep - Dec,2021-08-14,Other,28,800000,0,Russia,Beginner,Cloudy,6.0,No Guide,Adventure,3.5,1,0,1,1
+150,Everest Panorama Trek,1040.0,10,2,3860,Hotel/Guesthouse,Jan - May & Sep - Dec,2022-05-03,Other,28,650000,0,Rwanda,Intermediate,Clear,10.0,Guide,Leisure,4.5,1,0,1,1
+151,Everest Base Camp Trek via Gokyo Lake,1530.0,19,4,5545,Hotel/Guesthouse,Jan - May & Sep - Dec,2022-01-27,Other,29,1200000,0,Saint Kitts and Nevis,Beginner,Rainy,8.0,No Guide,Adventure,3.0,1,0,1,1
+152,Gokyo Lake Trek,1190.0,13,3,5357,Hotel/Guesthouse,Jan - May & Sep - Dec,2021-12-07,Male,28,1200000,1,St. Lucia,Advanced,Snowy,12.0,Guide,Charity,5.0,1,0,1,1
+153,Everest Base Camp Heli Trek,3600.0,9,3,5545,Hotel/Guesthouse,Jan - May & Sep - Dec,2021-10-28,Female,25,600000,1,St. Vincent,Intermediate,Clear,5.0,Guide,Leisure,4.0,1,0,1,1
+154,Annapurna Circuit Trek,1100.0,19,4,5416,Hotel/Guesthouse,Jan - May & Sep - Dec,2022-09-07,Female,28,700000,1,San Marino,Beginner,Cloudy,6.0,No Guide,Adventure,3.5,1,0,1,1
+155,Annapurna Base Camp Trek,1090.0,16,3,4130,Hotel/Guesthouse,Jan - May & Sep - Dec,2021-05-19,Other,34,1300000,0,Sao Tome and Principe,Unknown,Clear,8.0,Unknown,Unknown,4.0,1,0,1,1
+156,Ghorepani Poon Hill Trek,450.0,10,0,3210,Hotel/Guesthouse,Jan - May & Sep - Dec,2021-08-22,Female,28,900000,1,Saudi Arabia,Beginner,Rainy,8.0,No Guide,Adventure,3.0,1,0,1,1
+157,Upper Mustang Trek,2100.0,17,4,4200,Hotel/Guesthouse,Jan - May & Sep - Dec,2022-10-14,Male,28,600000,0,Senegal,Advanced,Snowy,12.0,Guide,Charity,5.0,1,0,1,1
+158,Mardi Himal Trek,590.0,9,2,4500,Hotel/Guesthouse,Jan - May & Sep - Dec,2022-09-06,Female,31,1250000,1,Serbia,Intermediate,Clear,5.0,Guide,Leisure,4.0,1,0,1,1
+159,Langtang Valley Trekking,690.0,11,3,4773,Hotel/Guesthouse,Jan - May & Sep - Dec,2022-02-05,Male,27,900000,0,Seychelles,Beginner,Cloudy,6.0,No Guide,Adventure,3.5,1,0,1,1
+160,Manaslu Circuit Trek,1190.0,17,4,5220,Hotel/Guesthouse,Jan - May & Sep - Dec,2022-10-24,Female,31,1200000,0,Sierra Leone,Intermediate,Clear,10.0,Guide,Leisure,4.5,1,0,1,1
+161,Annapurna Base Camp Trek,1090.0,14,3,4210 ,Hotel/Guesthouse,Mar - May & Sep - Dec,2023-07-30,Other,34,1400000,0,Singapore,Beginner,Rainy,8.0,No Guide,Adventure,3.0,1,0,1,1
+162,Annapurna Base Camp Short Trek,1090.0,11,1,4210 ,Hotel/Teahouse,Mar - May & Sep - Dec,2023-05-19,Male,34,500000,0,Slovakia,Advanced,Snowy,12.0,Guide,Charity,5.0,1,0,1,1
+163,Instant Annapurna Base Camp Trek,980.0,9,3,4230 ,Hotel/Guesthouse,Mar - May & Sep - Dec,2022-10-01,Male,32,350000,0,Vietnam,Intermediate,Clear,5.0,Guide,Leisure,4.0,1,0,1,1
+164,Annapurna Base Camp Heli Trek,1750.0,9,1,4210 ,Hotel/Teahouse,Mar - May & Sep - Dec,2023-05-27,Other,28,300000,0,Slovenia,Beginner,Cloudy,6.0,No Guide,Adventure,3.5,1,0,1,1
+165,Mardi Himal Trek,850.0,9,1,4200 ,Hotel/Guesthouse,Mar - May & Sep - Dec,2021-12-31,Other,33,1000000,0,Somalia,Intermediate,Clear,10.0,Guide,Leisure,4.5,1,0,1,1
+166,Mardi Himal Trekking,850.0,8,1,4200 ,Hotel/Guesthouse,Mar - May & Sep - Dec,2023-08-01,Male,28,800000,0,Republic of South Africa,Beginner,Rainy,8.0,No Guide,Adventure,3.0,1,0,1,1
+167,Classic Annapurna Circuit Trek,1350.0,18,3,5416 ,Hotel/Teahouse,Mar - May & Sep - Nov,2022-11-18,Female,31,400000,0,Zimbabwe,Advanced,Snowy,12.0,Guide,Charity,5.0,1,0,1,0
+168,Annapurna Circuit Trek,1250.0,14,3,5416 ,Hotel/Teahouse,Mar - May & Sep - Dec,2021-08-18,Other,27,850000,0,Spain,Intermediate,Clear,5.0,Guide,Leisure,4.0,1,0,1,1
+169,Annapurna Circuit Short Trek,1250.0,12,5,5416 ,Hotel/Guesthouse,Mar - May & Sep - Nov,2022-02-09,Other,25,600000,0,South Sudan,Beginner,Cloudy,6.0,No Guide,Adventure,3.5,1,0,1,0
+170,Annapurna Luxury Trek,1450.0,9,1,2012,Luxury Lodge,Mar - May & Sep - Dec,2022-03-26,Other,31,1350000,0,Sudan,Intermediate,Clear,10.0,Guide,Leisure,4.5,1,0,1,1
+171,Annapurna Panorama Trek,860.0,9,0,3210 ,Hotel/Teahouse,Jan - May & Sep - Dec,2022-09-19,Other,28,900000,0,Slovenia,Unknown,Clear,8.0,Unknown,Unknown,4.0,1,0,1,1
+172,Annapurna Tilicho Lake Trek,1450.0,17,5,5416 ,Hotel/Guesthouse,Mar - May & Sep - Nov,2021-02-08,Male,27,600000,0,Swaziland,Advanced,Snowy,12.0,Guide,Charity,5.0,1,0,1,0
+173,Short Annapurna Trek,590.0,5,0,1990 ,Lodge,Jan - May & Sep - Dec,2022-01-19,Other,26,450000,0,Sweden,Intermediate,Clear,5.0,Guide,Leisure,4.0,1,0,1,1
+174,Manaslu Circuit Trek,1450.0,15,5,5106 ,Hotel/Guesthouse,Mar - May & Sep - Nov,2020-08-17,Other,34,700000,1,Switzerland,Beginner,Cloudy,6.0,No Guide,Adventure,3.5,1,0,1,0
+175,Manaslu Circuit Trekking,1380.0,14,3,5220 ,Hotel/Teahouse,Mar - May & Sep - Nov,2023-01-20,Other,30,800000,0,Syria,Intermediate,Clear,10.0,Guide,Leisure,4.5,1,0,1,0
+176,Tsum Valley with Manaslu Trek,1850.0,20,5,5220 ,Hotel/Guesthouse,Mar - May & Sep - Nov,2023-07-13,Female,34,1050000,0,Tajikistan,Unknown,Rainy,8.0,Unknown,Unknown,4.0,1,0,1,0
+177,Upper Mustang Trek,2150.0,17,1,4210 ,Hotel/Guesthouse,Mar - May & Sep - Nov,2022-05-10,Female,28,1250000,0,Thailand,Advanced,Snowy,12.0,Guide,Charity,5.0,1,0,1,0
+178,Upper Mustang Trek with Yara,2300.0,18,1,4200 ,Lodge,Mar - Nov,2022-09-12,Male,32,350000,0,Togo,Intermediate,Clear,5.0,Guide,Leisure,4.0,1,1,1,0
+179,Upper Mustang Tiji Festival Trek,2150.0,18,1,4210 ,Hotel/Teahouse,Mar - May & Sep - Nov,2023-03-05,Female,26,1250000,0,Tonga,Beginner,Cloudy,6.0,No Guide,Adventure,3.5,1,0,1,0
+180,Langtang Valley Trek,750.0,10,1,5050 ,Hotel/Teahouse,Mar - May & Sep - Dec,2021-06-05,Other,28,750000,1,Republic of Trinidad and Tobago,Intermediate,Clear,10.0,Guide,Leisure,4.5,1,0,1,1
+181,Langtang Gosaikunda Trek,1180.0,16,1,4600,Hotel/Guesthouse,Mar - May & Sep - Dec,2023-03-01,Female,26,1300000,0,United Arab Emirates,Beginner,Rainy,8.0,No Guide,Adventure,3.0,1,0,1,1
+182,Tamang Heritage Trek,920.0,14,1,5050 ,Hotel/Guesthouse,Mar - May & Sep - Dec,2022-08-10,Male,35,800000,1,Tunisia,Advanced,Snowy,12.0,Guide,Charity,5.0,1,0,1,1
+183,Tamang Heritage Trail,750.0,8,0,2607 ,Teahouse/Lodge,Jan - May & Sep - Dec,2020-11-30,Other,25,1700000,1,Turkey,Intermediate,Clear,5.0,Guide,Leisure,4.0,1,0,1,1
+184,Helambu Trek,780.0,9,0,3650 ,Hotel/Guesthouse,Jan - May & Sep - Dec,2023-06-17,Other,25,750000,0,Turkmenistan,Beginner,Cloudy,6.0,No Guide,Adventure,3.5,1,0,1,1
+185,Annapurna Base Camp Trek,1499.0,11,4,4130,Hotel/Guesthouse,Jan - May & Sep - Dec,2020-04-15,Other,28,300000,0,Togo,Intermediate,Clear,10.0,Guide,Leisure,4.5,1,0,1,1
+186,Everest Base Camp Trek for Youths,1750.0,14,4,5545,Hotel/Guesthouse,Jan - May & Sep - Dec,2020-09-09,Male,28,500000,0,Uganda,Beginner,Rainy,8.0,No Guide,Adventure,3.0,1,0,1,1
+187,Everest Base Camp Short Trek,1499.0,14,4,5545,Hotel/Guesthouse,Jan - May & Sep - Dec,2022-09-24,Other,28,650000,0,Ukraine,Advanced,Snowy,12.0,Guide,Charity,5.0,1,0,1,1
+188,Everest Base Camp Trek,1499.0,16,4,5545,Hotel/Guesthouse,Jan - May & Sep - Dec,2021-02-22,Male,26,500000,0,North Macedonia,Intermediate,Clear,5.0,Guide,Leisure,4.0,1,0,1,1
+189,Annapurna Circuit Trek,1499.0,17,4,5416,Hotel/Guesthouse,Jan - May & Sep - Dec,2020-08-02,Other,26,1400000,0,Egypt,Beginner,Cloudy,6.0,No Guide,Adventure,3.5,1,0,1,1
+190,Everest Base Camp Luxury Lodge Trek,1499.0,15,4,5545,Hotel/Guesthouse,Jan - May & Sep - Dec,2020-03-12,Female,27,900000,0,United Kingdom,Unknown,Clear,8.0,Unknown,Unknown,4.0,1,0,1,1
+191,Everest Base Camp Trek via Gokyo Lakes and Cho La Pass,1499.0,18,4,5545,Hotel/Guesthouse,Jan - May & Sep - Dec,2020-05-31,Other,30,650000,0,Tanzania,Beginner,Rainy,8.0,No Guide,Adventure,3.0,1,0,1,1
+192,Upper Mustang Trek,1499.0,17,4,3870,Hotel/Guesthouse,Jan - May & Sep - Dec,2023-03-12,Other,28,800000,0,United States,Advanced,Snowy,12.0,Guide,Charity,5.0,1,0,1,1
+193,Everest Advanced Base Camp Trek from Tibet,1499.0,18,4,6340,Hotel/Guesthouse,Jan - May & Sep - Dec,2020-09-13,Male,34,1300000,0,Burkina Faso,Intermediate,Clear,5.0,Guide,Leisure,4.0,1,0,1,1
+194,Gokyo Lakes and Gokyo Ri Trek,1499.0,14,4,5357,Hotel/Guesthouse,Jan - May & Sep - Dec,2023-03-04,Other,33,1100000,0,Uruguay,Beginner,Cloudy,6.0,No Guide,Adventure,3.5,1,0,1,1
+195,Mardi Himal Trek,1499.0,10,3,3540,Hotel/Guesthouse,Jan - May & Sep - Dec,2021-11-27,Other,25,1400000,1,Uzbekistan,Intermediate,Clear,10.0,Guide,Leisure,4.5,1,0,1,1
+196,Manaslu Circuit Trek,1499.0,18,4,5160,Hotel/Guesthouse,Jan - May & Sep - Dec,2020-10-05,Other,34,1000000,0,Venezuela,Beginner,Rainy,8.0,No Guide,Adventure,3.0,1,0,1,1
+197,Langtang Valley Trek,1499.0,11,4,5000,Hotel/Guesthouse,Jan - May & Sep - Dec,2022-04-11,Other,29,1150000,1,Samoa,Advanced,Snowy,12.0,Guide,Charity,5.0,1,0,1,1
+198,Annapurna Sanctuary Trek,1499.0,14,4,4130,Hotel/Guesthouse,Jan - May & Sep - Dec,2020-02-10,Other,25,1350000,0,Yemen,Intermediate,Clear,5.0,Guide,Leisure,4.0,1,0,1,1
+199,Rara Lake Trek,1499.0,15,3,3055,Hotel/Guesthouse,Jan - May & Sep - Dec,2020-04-03,Female,30,1450000,1,Zambia,Beginner,Cloudy,6.0,No Guide,Adventure,3.5,1,0,1,1
+200,Everest High Passes Trek,1499.0,20,4,5546,Hotel/Guesthouse,Jan - May & Sep - Dec,2022-01-15,Male,27,1050000,0,Kosovo,Unknown,Snowy,8.0,Unknown,Unknown,4.0,1,0,1,1
+201,Kanchenjunga Circuit Trek,1499.0,25,4,5143,Hotel/Guesthouse,Jan - May & Sep - Dec,2022-10-10,Male,31,1400000,0,Unknown,Beginner,Rainy,8.0,No Guide,Adventure,3.0,1,0,1,1
+202,Everest View Trek,1499.0,12,2,3870,Hotel/Guesthouse,Jan - May & Sep - Dec,2023-08-07,Female,28,600000,0,Unknown,Advanced,Snowy,12.0,Guide,Charity,5.0,1,0,1,1
+203,Tsum Valley Trek,1499.0,19,4,6000,Hotel/Guesthouse,Jan - May & Sep - Dec,2022-02-05,Other,28,1100000,0,Afghanistan,Intermediate,Clear,5.0,Guide,Leisure,4.0,1,0,1,1
+204,The Royal Trek,1499.0,9,3,1730,Hotel/Guesthouse,Jan - May & Sep - Dec,2020-09-18,Other,32,900000,1,Albania,Beginner,Cloudy,6.0,No Guide,Adventure,3.5,1,0,1,1
+205,Makalu Base Camp Trek,1499.0,22,5,4870,Hotel/Guesthouse,Jan - May & Sep - Dec,2022-12-11,Male,29,1150000,0,Algeria,Intermediate,Clear,10.0,Guide,Leisure,4.5,1,0,1,1
+206,"Langtang, Gosainkunda and Helambu Trek",1499.0,17,3,5000,Hotel/Guesthouse,Jan - May & Sep - Dec,2021-03-03,Female,25,1150000,0,Russia,Beginner,Rainy,8.0,No Guide,Adventure,3.0,1,0,1,1
+207,Nar Phu Valley Trek,1499.0,19,4,5416,Hotel/Guesthouse,Jan - May & Sep - Dec,2022-01-21,Other,31,350000,0,Angola,Advanced,Snowy,12.0,Guide,Charity,5.0,1,0,1,1
+208,Annapurna Circle Trek,1499.0,14,4,5416,Hotel/Guesthouse,Jan - May & Sep - Dec,2022-06-16,Other,29,1350000,0,Antigua and Barbuda,Intermediate,Clear,5.0,Guide,Leisure,4.0,1,0,1,1
+209,Everest Kangshung Face Trek,1499.0,21,5,5320,Hotel/Guesthouse,Jan - May & Sep - Dec,2020-12-31,Other,25,1700000,1,Azerbaijan,Beginner,Cloudy,6.0,No Guide,Adventure,3.5,1,0,1,1
+210,Tsum Valley and Manaslu Trek,1499.0,27,4,4460,Hotel/Guesthouse,Jan - May & Sep - Dec,2022-11-23,Male,28,1200000,1,Argentina,Intermediate,Clear,10.0,Guide,Leisure,4.5,1,0,1,1
+211,Khopra Ridge Community Trek,1499.0,13,4,4500,Hotel/Guesthouse,Jan - May & Sep - Dec,2022-05-26,Male,27,450000,0,Australia,Beginner,Rainy,8.0,No Guide,Adventure,3.0,1,0,1,1
+212,Nepal Experience Tour,1499.0,12,1,3210,Hotel/Guesthouse,Jan - May & Sep - Dec,2022-11-17,Other,28,750000,0,Austria,Advanced,Snowy,12.0,Guide,Charity,5.0,1,0,1,1
+213,Annapurna Circuit Trek with Tilicho Lake and Poon Hill,1499.0,20,4,5416,Hotel/Guesthouse,Jan - May & Sep - Dec,2020-12-20,Other,26,1400000,1,Bahamas,Unknown,Snowy,8.0,Unknown,Unknown,4.0,1,0,1,1
+214,Annapurna With Tilicho Lake Trek,1499.0,17,4,5416,Hotel/Guesthouse,Jan - May & Sep - Dec,2022-03-22,Female,27,850000,0,Barrane,Beginner,Cloudy,6.0,No Guide,Adventure,3.5,1,0,1,1
+215,Langtang Valley Trek with Ganja la Pass,1499.0,14,5,5122,Hotel/Guesthouse,Jan - May & Sep - Dec,2022-03-15,Male,33,1100000,0,Bangladesh,Intermediate,Clear,10.0,Guide,Leisure,4.5,1,0,1,1
+216,Tamang Heritage Trek,1499.0,14,3,3870,Hotel/Guesthouse,Jan - May & Sep - Dec,2020-08-09,Male,34,1050000,0,Armenia,Beginner,Rainy,8.0,No Guide,Adventure,3.0,1,0,1,1
+217,Manaslu and Annapurna Trek with Tilicho Lake,1499.0,25,4,5416,Hotel/Guesthouse,Jan - May & Sep - Dec,2022-05-05,Other,28,800000,0,Barbados,Advanced,Snowy,12.0,Guide,Charity,5.0,1,0,1,1
+218,Nepal Trekking and Everest Himalaya Heli Tour,1499.0,7,3,5545,Hotel/Guesthouse,Jan - May & Sep - Dec,2022-04-13,Male,26,1500000,1,Belgium,Intermediate,Clear,5.0,Guide,Leisure,4.0,1,0,1,1
+219,Nepal Hiking and Culture Tour,1499.0,8,3,1550,Hotel/Guesthouse,Jan - May & Sep - Dec,2023-06-27,Female,31,1250000,0,Bhutan,Beginner,Cloudy,6.0,No Guide,Adventure,3.5,1,0,1,1
+220,Annapurna Sunrise and Everest View Trek,1499.0,17,3,3870,Hotel/Guesthouse,Jan - May & Sep - Dec,2022-02-01,Female,35,800000,0,Bolivia,Intermediate,Clear,10.0,Guide,Leisure,4.5,1,0,1,1
+221,Tenzing Hillary Everest Marathon,1499.0,20,5,5545,Hotel/Guesthouse,Jan - May & Sep - Dec,2022-10-21,Other,28,1200000,0,Bosnia and Herzegovina,Unknown,Clear,8.0,Unknown,Unknown,4.0,1,0,1,1
+222,Everest Base Camp Trek,1450.0,16,4,5545,Hotel/Guesthouse,Jan - May & Sep - Dec,2023-06-07,Other,28,1200000,0,Botswana,Advanced,Snowy,12.0,Guide,Charity,5.0,1,0,1,1
+223,Everest Kalapathar Trekking,1390.0,15,4,5545,Hotel/Guesthouse,Jan - May & Sep - Dec,2020-03-25,Other,30,650000,0,Brazil,Intermediate,Clear,5.0,Guide,Leisure,4.0,1,0,1,1
+224,Everest Panorama Trek,1040.0,10,2,3860,Hotel/Guesthouse,Jan - May & Sep - Dec,2022-02-21,Male,31,1100000,1,Belize,Beginner,Cloudy,6.0,No Guide,Adventure,3.5,1,0,1,1
+225,Everest Base Camp Trek via Gokyo Lake,1530.0,19,4,5545,Hotel/Guesthouse,Jan - May & Sep - Dec,2022-11-04,Female,31,1250000,0,Solomon,Intermediate,Clear,10.0,Guide,Leisure,4.5,1,0,1,1
+226,Gokyo Lake Trek,1190.0,13,3,5357,Hotel/Guesthouse,Jan - May & Sep - Dec,2020-06-13,Male,34,1300000,0,Brunei,Beginner,Rainy,8.0,No Guide,Adventure,3.0,1,0,1,1
+227,Everest Base Camp Heli Trek,3600.0,9,3,5545,Hotel/Guesthouse,Jan - May & Sep - Dec,2021-07-03,Male,34,1300000,0,Bulgaria,Advanced,Snowy,12.0,Guide,Charity,5.0,1,0,1,1
+228,Annapurna Circuit Trek,1100.0,19,4,5416,Hotel/Guesthouse,Jan - May & Sep - Dec,2022-03-15,Female,34,1000000,0,Myanmar,Intermediate,Clear,5.0,Guide,Leisure,4.0,1,0,1,1
+229,Annapurna Base Camp Trek,1090.0,16,3,4130,Hotel/Guesthouse,Jan - May & Sep - Dec,2021-08-18,Male,34,1000000,0,Brush,Beginner,Cloudy,6.0,No Guide,Adventure,3.5,1,0,1,1
+230,Ghorepani Poon Hill Trek,450.0,10,0,3210,Hotel/Guesthouse,Jan - May & Sep - Dec,2020-04-26,Male,29,900000,1,Belarus,Intermediate,Clear,10.0,Guide,Leisure,4.5,1,0,1,1
+231,Upper Mustang Trek,2100.0,17,4,4200,Hotel/Guesthouse,Jan - May & Sep - Dec,2022-03-13,Other,31,1200000,0,Cambodia,Beginner,Rainy,8.0,No Guide,Adventure,3.0,1,0,1,1
+232,Mardi Himal Trek,590.0,9,2,4500,Hotel/Guesthouse,Jan - May & Sep - Dec,2020-05-25,Male,28,1250000,0,Cameroon,Advanced,Snowy,12.0,Guide,Charity,5.0,1,0,1,1
+233,Langtang Valley Trekking,690.0,11,3,4773,Hotel/Guesthouse,Jan - May & Sep - Dec,2022-07-16,Other,31,1200000,0,Canada,Unknown,Rainy,8.0,Unknown,Unknown,4.0,1,0,1,1
+234,Manaslu Circuit Trek,1190.0,17,4,5220,Hotel/Guesthouse,Jan - May & Sep - Dec,2022-02-26,Female,34,1300000,0,Cabo Verde,Beginner,Cloudy,6.0,No Guide,Adventure,3.5,1,0,1,1
+235,Annapurna Base Camp Trek,1090.0,14,3,4210 ,Hotel/Guesthouse,Mar - May & Sep - Dec,2023-07-12,Other,30,550000,0,Central Africa,Intermediate,Clear,10.0,Guide,Leisure,4.5,1,0,1,1
+236,Annapurna Base Camp Short Trek,1090.0,11,1,4210 ,Hotel/Teahouse,Mar - May & Sep - Dec,2021-05-10,Other,26,1500000,1,Sri Lanka,Beginner,Rainy,8.0,No Guide,Adventure,3.0,1,0,1,1
+237,Instant Annapurna Base Camp Trek,980.0,9,3,4230 ,Hotel/Guesthouse,Mar - May & Sep - Dec,2022-11-30,Male,30,500000,0,Chad,Advanced,Snowy,12.0,Guide,Charity,5.0,1,0,1,1
+238,Annapurna Base Camp Heli Trek,1750.0,9,1,4210 ,Hotel/Teahouse,Mar - May & Sep - Dec,2022-05-07,Other,29,600000,0,Chile,Unknown,Clear,8.0,Unknown,Unknown,4.0,1,0,1,1
+239,Mardi Himal Trek,850.0,9,1,4200 ,Hotel/Guesthouse,Mar - May & Sep - Dec,2022-09-04,Other,26,1250000,0,China,Beginner,Cloudy,6.0,No Guide,Adventure,3.5,1,0,1,1
+240,Mardi Himal Trekking,850.0,8,1,4200 ,Hotel/Guesthouse,Mar - May & Sep - Dec,2022-02-04,Other,27,350000,0,Taiwan,Unknown,Snowy,8.0,Unknown,Unknown,4.0,1,0,1,1
+241,Classic Annapurna Circuit Trek,1350.0,18,3,5416 ,Hotel/Teahouse,Mar - May & Sep - Nov,2021-01-27,Female,35,800000,0,Columbia,Beginner,Rainy,8.0,No Guide,Adventure,3.0,1,0,1,0
+242,Annapurna Circuit Trek,1250.0,14,3,5416 ,Hotel/Teahouse,Mar - May & Sep - Dec,2022-12-18,Male,33,400000,0,Komoro,Advanced,Snowy,12.0,Guide,Charity,5.0,1,0,1,1
+243,Annapurna Circuit Short Trek,1250.0,12,5,5416 ,Hotel/Guesthouse,Mar - May & Sep - Nov,2022-07-21,Female,26,750000,0,Congo,Intermediate,Clear,5.0,Guide,Leisure,4.0,1,0,1,0
+244,Annapurna Luxury Trek,1450.0,9,1,2012,Luxury Lodge,Mar - May & Sep - Dec,2022-04-05,Male,27,500000,0,Zaire,Beginner,Cloudy,6.0,No Guide,Adventure,3.5,1,0,1,1
+245,Annapurna Panorama Trek,860.0,9,0,3210 ,Hotel/Teahouse,Jan - May & Sep - Dec,2020-05-27,Other,28,1150000,0,Congo Democratic Republic,Intermediate,Clear,10.0,Guide,Leisure,4.5,1,0,1,1
+246,Annapurna Tilicho Lake Trek,1450.0,17,5,5416 ,Hotel/Guesthouse,Mar - May & Sep - Nov,2023-04-11,Male,31,350000,0,Costa Rica,Beginner,Rainy,8.0,No Guide,Adventure,3.0,1,0,1,0
+247,Short Annapurna Trek,590.0,5,0,1990 ,Lodge,Jan - May & Sep - Dec,2020-02-29,Other,27,1050000,1,Croatia,Advanced,Snowy,12.0,Guide,Charity,5.0,1,0,1,1
+248,Manaslu Circuit Trek,1450.0,15,5,5106 ,Hotel/Guesthouse,Mar - May & Sep - Nov,2021-07-02,Male,34,1300000,0,Cuba,Intermediate,Clear,5.0,Guide,Leisure,4.0,1,0,1,0
+249,Manaslu Circuit Trekking,1380.0,14,3,5220 ,Hotel/Teahouse,Mar - May & Sep - Nov,2021-08-30,Male,28,1150000,0,Cyprus,Beginner,Cloudy,6.0,No Guide,Adventure,3.5,1,0,1,0
+250,Tsum Valley with Manaslu Trek,1850.0,20,5,5220 ,Hotel/Guesthouse,Mar - May & Sep - Nov,2023-05-15,Other,34,1000000,0,Czech Republic,Unknown,Clear,8.0,Unknown,Unknown,4.0,1,0,1,0
+251,Upper Mustang Trek,2150.0,17,1,4210 ,Hotel/Guesthouse,Mar - May & Sep - Nov,2023-07-26,Female,28,300000,0,Benin,Beginner,Rainy,8.0,No Guide,Adventure,3.0,1,0,1,0
+252,Upper Mustang Trek with Yara,2300.0,18,1,4200 ,Lodge,Mar - Nov,2023-03-17,Other,29,1350000,0,Denmark,Advanced,Snowy,12.0,Guide,Charity,5.0,1,1,1,0
+253,Upper Mustang Tiji Festival Trek,2150.0,18,1,4210 ,Hotel/Teahouse,Mar - May & Sep - Nov,2021-05-19,Female,28,1400000,0,Dominica,Intermediate,Clear,5.0,Guide,Leisure,4.0,1,0,1,0
+254,Langtang Valley Trek,750.0,10,1,5050 ,Hotel/Teahouse,Mar - May & Sep - Dec,2023-06-19,Other,28,1200000,0,Dominican Republic,Beginner,Cloudy,6.0,No Guide,Adventure,3.5,1,0,1,1
+255,Langtang Gosaikunda Trek,1180.0,16,1,4600,Hotel/Guesthouse,Mar - May & Sep - Dec,2020-01-04,Other,34,1500000,1,Ecuador,Intermediate,Clear,10.0,Guide,Leisure,4.5,1,0,1,1
+256,Tamang Heritage Trek,920.0,14,1,5050 ,Hotel/Guesthouse,Mar - May & Sep - Dec,2021-02-06,Other,34,1300000,0,El Salvador,Beginner,Rainy,8.0,No Guide,Adventure,3.0,1,0,1,1
+257,Tamang Heritage Trail,750.0,8,0,2607 ,Teahouse/Lodge,Jan - May & Sep - Dec,2020-08-24,Male,33,550000,0,Equatorial Guinea,Advanced,Snowy,12.0,Guide,Charity,5.0,1,0,1,1
+258,Helambu Trek,780.0,9,0,3650 ,Hotel/Guesthouse,Jan - May & Sep - Dec,2021-09-20,Other,29,900000,1,Ethiopia,Intermediate,Clear,5.0,Guide,Leisure,4.0,1,0,1,1
+259,Annapurna Base Camp Trek,1499.0,11,4,4130,Hotel/Guesthouse,Jan - May & Sep - Dec,2020-05-20,Other,33,400000,0,Eritrea,Beginner,Cloudy,6.0,No Guide,Adventure,3.5,1,0,1,1
+260,Everest Base Camp Trek for Youths,1750.0,14,4,5545,Hotel/Guesthouse,Jan - May & Sep - Dec,2023-07-31,Male,26,1400000,0,Estonia,Intermediate,Clear,10.0,Guide,Leisure,4.5,1,0,1,1
+261,Everest Base Camp Short Trek,1499.0,14,4,5545,Hotel/Guesthouse,Jan - May & Sep - Dec,2020-05-31,Other,28,1100000,0,Georgia,Beginner,Rainy,8.0,No Guide,Adventure,3.0,1,0,1,1
+262,Everest Base Camp Trek,1499.0,16,4,5545,Hotel/Guesthouse,Jan - May & Sep - Dec,2020-10-29,Other,26,750000,0,Fiji,Advanced,Snowy,12.0,Guide,Charity,5.0,1,0,1,1
+263,Annapurna Circuit Trek,1499.0,17,4,5416,Hotel/Guesthouse,Jan - May & Sep - Dec,2021-03-27,Other,35,800000,0,Finland,Intermediate,Clear,5.0,Guide,Leisure,4.0,1,0,1,1
+264,Everest Base Camp Luxury Lodge Trek,1499.0,15,4,5545,Hotel/Guesthouse,Jan - May & Sep - Dec,2023-04-02,Other,29,350000,0,France,Beginner,Cloudy,6.0,No Guide,Adventure,3.5,1,0,1,1
+265,Everest Base Camp Trek via Gokyo Lakes and Cho La Pass,1499.0,18,4,5545,Hotel/Guesthouse,Jan - May & Sep - Dec,2022-11-19,Other,27,850000,1,Djibouti,Intermediate,Clear,10.0,Guide,Leisure,4.5,1,0,1,1
+266,Upper Mustang Trek,1499.0,17,4,3870,Hotel/Guesthouse,Jan - May & Sep - Dec,2021-10-13,Other,31,400000,0,Gabon,Beginner,Rainy,8.0,No Guide,Adventure,3.0,1,0,1,1
+267,Everest Advanced Base Camp Trek from Tibet,1499.0,18,4,6340,Hotel/Guesthouse,Jan - May & Sep - Dec,2020-02-04,Other,33,1100000,0,Gambia,Advanced,Snowy,12.0,Guide,Charity,5.0,1,0,1,1
+268,Gokyo Lakes and Gokyo Ri Trek,1499.0,14,4,5357,Hotel/Guesthouse,Jan - May & Sep - Dec,2020-03-24,Female,34,500000,0,Palestine,Intermediate,Clear,5.0,Guide,Leisure,4.0,1,0,1,1
+269,Mardi Himal Trek,1499.0,10,3,3540,Hotel/Guesthouse,Jan - May & Sep - Dec,2021-01-23,Other,27,800000,0,Germany,Beginner,Cloudy,6.0,No Guide,Adventure,3.5,1,0,1,1
+270,Manaslu Circuit Trek,1499.0,18,4,5160,Hotel/Guesthouse,Jan - May & Sep - Dec,2023-01-28,Male,34,1300000,0,Ghana,Intermediate,Clear,10.0,Guide,Leisure,4.5,1,0,1,1
+271,Langtang Valley Trek,1499.0,11,4,5000,Hotel/Guesthouse,Jan - May & Sep - Dec,2023-01-02,Male,35,900000,0,Kiribati,Beginner,Rainy,8.0,No Guide,Adventure,3.0,1,0,1,1
+272,Annapurna Sanctuary Trek,1499.0,14,4,4130,Hotel/Guesthouse,Jan - May & Sep - Dec,2020-04-11,Other,28,700000,0,Greece,Advanced,Snowy,12.0,Guide,Charity,5.0,1,0,1,1
+273,Rara Lake Trek,1499.0,15,3,3055,Hotel/Guesthouse,Jan - May & Sep - Dec,2020-12-01,Other,34,1000000,1,Grenada,Intermediate,Clear,5.0,Guide,Leisure,4.0,1,0,1,1
+274,Everest High Passes Trek,1499.0,20,4,5546,Hotel/Guesthouse,Jan - May & Sep - Dec,2022-03-24,Other,32,850000,0,Guatemala,Unknown,Clear,8.0,Unknown,Unknown,4.0,1,0,1,1
+275,Kanchenjunga Circuit Trek,1499.0,25,4,5143,Hotel/Guesthouse,Jan - May & Sep - Dec,2022-10-27,Female,26,1400000,0,Guinea,Intermediate,Clear,10.0,Guide,Leisure,4.5,1,0,1,1
+276,Everest View Trek,1499.0,12,2,3870,Hotel/Guesthouse,Jan - May & Sep - Dec,2020-07-06,Female,29,1050000,0,Gaiana,Beginner,Rainy,8.0,No Guide,Adventure,3.0,1,0,1,1
+277,Tsum Valley Trek,1499.0,19,4,6000,Hotel/Guesthouse,Jan - May & Sep - Dec,2021-05-01,Female,31,950000,1,Haiti,Advanced,Snowy,12.0,Guide,Charity,5.0,1,0,1,1
+278,The Royal Trek,1499.0,9,3,1730,Hotel/Guesthouse,Jan - May & Sep - Dec,2023-05-27,Other,32,800000,0,Honduras,Unknown,Clear,8.0,Unknown,Unknown,4.0,1,0,1,1
+279,Makalu Base Camp Trek,1499.0,22,5,4870,Hotel/Guesthouse,Jan - May & Sep - Dec,2021-12-29,Other,32,350000,0,China (Hong Kong),Beginner,Cloudy,6.0,No Guide,Adventure,3.5,1,0,1,1
+280,"Langtang, Gosainkunda and Helambu Trek",1499.0,17,3,5000,Hotel/Guesthouse,Jan - May & Sep - Dec,2022-06-14,Other,32,800000,1,Hong Kong DI,Intermediate,Clear,10.0,Guide,Leisure,4.5,1,0,1,1
+281,Nar Phu Valley Trek,1499.0,19,4,5416,Hotel/Guesthouse,Jan - May & Sep - Dec,2023-04-10,Male,26,750000,0,Hong Kong SAR,Beginner,Rainy,8.0,No Guide,Adventure,3.0,1,0,1,1
+282,Annapurna Circle Trek,1499.0,14,4,5416,Hotel/Guesthouse,Jan - May & Sep - Dec,2021-12-23,Female,26,1400000,0,Hungary,Advanced,Snowy,12.0,Guide,Charity,5.0,1,0,1,1
+283,Everest Kangshung Face Trek,1499.0,21,5,5320,Hotel/Guesthouse,Jan - May & Sep - Dec,2020-11-29,Other,26,600000,1,Iceland,Intermediate,Clear,5.0,Guide,Leisure,4.0,1,0,1,1
+284,Tsum Valley and Manaslu Trek,1499.0,27,4,4460,Hotel/Guesthouse,Jan - May & Sep - Dec,2021-12-16,Female,28,750000,0,India,Beginner,Cloudy,6.0,No Guide,Adventure,3.5,1,0,1,1
+285,Khopra Ridge Community Trek,1499.0,13,4,4500,Hotel/Guesthouse,Jan - May & Sep - Dec,2023-03-19,Other,33,750000,0,Indonesia,Intermediate,Clear,10.0,Guide,Leisure,4.5,1,0,1,1
+286,Nepal Experience Tour,1499.0,12,1,3210,Hotel/Guesthouse,Jan - May & Sep - Dec,2022-02-20,Other,28,600000,0,Iran,Beginner,Rainy,8.0,No Guide,Adventure,3.0,1,0,1,1
+287,Annapurna Circuit Trek with Tilicho Lake and Poon Hill,1499.0,20,4,5416,Hotel/Guesthouse,Jan - May & Sep - Dec,2022-07-26,Female,29,1200000,0,Iraq,Advanced,Snowy,12.0,Guide,Charity,5.0,1,0,1,1
+288,Annapurna With Tilicho Lake Trek,1499.0,17,4,5416,Hotel/Guesthouse,Jan - May & Sep - Dec,2020-12-09,Male,29,1100000,0,Ireland,Intermediate,Clear,5.0,Guide,Leisure,4.0,1,0,1,1
+289,Langtang Valley Trek with Ganja la Pass,1499.0,14,5,5122,Hotel/Guesthouse,Jan - May & Sep - Dec,2021-05-25,Other,26,500000,0,Israel,Beginner,Cloudy,6.0,No Guide,Adventure,3.5,1,0,1,1
+290,Tamang Heritage Trek,1499.0,14,3,3870,Hotel/Guesthouse,Jan - May & Sep - Dec,2023-06-17,Other,32,900000,0,Italy,Intermediate,Clear,10.0,Guide,Leisure,4.5,1,0,1,1
+291,Manaslu and Annapurna Trek with Tilicho Lake,1499.0,25,4,5416,Hotel/Guesthouse,Jan - May & Sep - Dec,2020-05-18,Other,34,1300000,1,Côte d'Ivoire,Beginner,Rainy,8.0,No Guide,Adventure,3.0,1,0,1,1
+292,Nepal Trekking and Everest Himalaya Heli Tour,1499.0,7,3,5545,Hotel/Guesthouse,Jan - May & Sep - Dec,2022-03-18,Female,27,850000,0,Jamaica,Advanced,Snowy,12.0,Guide,Charity,5.0,1,0,1,1
+293,Nepal Hiking and Culture Tour,1499.0,8,3,1550,Hotel/Guesthouse,Jan - May & Sep - Dec,2021-01-23,Male,31,1250000,0,Kazakhstan,Intermediate,Clear,5.0,Guide,Leisure,4.0,1,0,1,1
+294,Annapurna Sunrise and Everest View Trek,1499.0,17,3,3870,Hotel/Guesthouse,Jan - May & Sep - Dec,2020-09-14,Male,29,1200000,0,Jordan,Unknown,Clear,8.0,Unknown,Unknown,4.0,1,0,1,1
+295,Tenzing Hillary Everest Marathon,1499.0,20,5,5545,Hotel/Guesthouse,Jan - May & Sep - Dec,2020-12-30,Other,28,550000,0,Kenya,Intermediate,Clear,10.0,Guide,Leisure,4.5,1,0,1,1
+296,Everest Base Camp Trek,1450.0,16,4,5545,Hotel/Guesthouse,Jan - May & Sep - Dec,2020-03-22,Female,32,350000,0,north korea,Beginner,Rainy,8.0,No Guide,Adventure,3.0,1,0,1,1
+297,Everest Kalapathar Trekking,1390.0,15,4,5545,Hotel/Guesthouse,Jan - May & Sep - Dec,2022-03-17,Other,35,800000,0,South Korea,Advanced,Snowy,12.0,Guide,Charity,5.0,1,0,1,1
+298,Everest Panorama Trek,1040.0,10,2,3860,Hotel/Guesthouse,Jan - May & Sep - Dec,2020-10-11,Female,25,1700000,1,Kuwait,Intermediate,Clear,5.0,Guide,Leisure,4.0,1,0,1,1
+299,Everest Base Camp Trek via Gokyo Lake,1530.0,19,4,5545,Hotel/Guesthouse,Jan - May & Sep - Dec,2021-05-07,Female,27,450000,0,Kyrgyzstan,Unknown,Clear,8.0,Unknown,Unknown,4.0,1,0,1,1
+300,Gokyo Lake Trek,1190.0,13,3,5357,Hotel/Guesthouse,Jan - May & Sep - Dec,2020-04-17,Other,32,900000,0,Laos,Intermediate,Clear,10.0,Guide,Leisure,4.5,1,0,1,1
+301,Everest Base Camp Heli Trek,3600.0,9,3,5545,Hotel/Guesthouse,Jan - May & Sep - Dec,2022-02-17,Female,27,850000,0,Lebanon,Unknown,Snowy,8.0,Unknown,Unknown,4.0,1,0,1,1
+302,Annapurna Circuit Trek,1100.0,19,4,5416,Hotel/Guesthouse,Jan - May & Sep - Dec,2021-06-10,Female,34,700000,0,Lesot,Advanced,Snowy,12.0,Guide,Charity,5.0,1,0,1,1
+303,Annapurna Base Camp Trek,1090.0,16,3,4130,Hotel/Guesthouse,Jan - May & Sep - Dec,2023-04-21,Male,31,300000,0,Latvia,Intermediate,Clear,5.0,Guide,Leisure,4.0,1,0,1,1
+304,Ghorepani Poon Hill Trek,450.0,10,0,3210,Hotel/Guesthouse,Jan - May & Sep - Dec,2022-12-21,Other,34,1050000,0,Liberia,Beginner,Cloudy,6.0,No Guide,Adventure,3.5,1,0,1,1
+305,Upper Mustang Trek,2100.0,17,4,4200,Hotel/Guesthouse,Jan - May & Sep - Dec,2022-04-08,Other,26,1250000,0,Libya,Intermediate,Clear,10.0,Guide,Leisure,4.5,1,0,1,1
+306,Mardi Himal Trek,590.0,9,2,4500,Hotel/Guesthouse,Jan - May & Sep - Dec,2023-04-05,Female,33,650000,0,Liechtenstein,Beginner,Rainy,8.0,No Guide,Adventure,3.0,1,0,1,1
+307,Langtang Valley Trekking,690.0,11,3,4773,Hotel/Guesthouse,Jan - May & Sep - Dec,2023-08-11,Other,28,1150000,0,Lithuania,Unknown,Rainy,8.0,Unknown,Unknown,4.0,1,0,1,1
+308,Manaslu Circuit Trek,1190.0,17,4,5220,Hotel/Guesthouse,Jan - May & Sep - Dec,2023-05-12,Female,34,1000000,0,Luxembourg,Unknown,Clear,8.0,Unknown,Unknown,4.0,1,0,1,1
+309,Annapurna Base Camp Trek,1090.0,14,3,4210 ,Hotel/Guesthouse,Mar - May & Sep - Dec,2021-05-10,Other,33,650000,0,Macau,Beginner,Cloudy,6.0,No Guide,Adventure,3.5,1,0,1,1
+310,Annapurna Base Camp Short Trek,1090.0,11,1,4210 ,Hotel/Teahouse,Mar - May & Sep - Dec,2020-10-04,Female,30,550000,0,Macau,Intermediate,Clear,10.0,Guide,Leisure,4.5,1,0,1,1
+311,Instant Annapurna Base Camp Trek,980.0,9,3,4230 ,Hotel/Guesthouse,Mar - May & Sep - Dec,2022-12-18,Other,34,1500000,1,Madagascar,Beginner,Rainy,8.0,No Guide,Adventure,3.0,1,0,1,1
+312,Annapurna Base Camp Heli Trek,1750.0,9,1,4210 ,Hotel/Teahouse,Mar - May & Sep - Dec,2022-06-24,Other,32,850000,0,Malawi,Advanced,Snowy,12.0,Guide,Charity,5.0,1,0,1,1
+313,Mardi Himal Trek,850.0,9,1,4200 ,Hotel/Guesthouse,Mar - May & Sep - Dec,2020-01-28,Male,25,1150000,0,Malaysia,Intermediate,Clear,5.0,Guide,Leisure,4.0,1,0,1,1
+314,Mardi Himal Trekking,850.0,8,1,4200 ,Hotel/Guesthouse,Mar - May & Sep - Dec,2022-01-24,Other,26,1400000,0,Maldives,Beginner,Cloudy,6.0,No Guide,Adventure,3.5,1,0,1,1
+315,Classic Annapurna Circuit Trek,1350.0,18,3,5416 ,Hotel/Teahouse,Mar - May & Sep - Nov,2020-08-20,Male,28,300000,0,Mari,Intermediate,Clear,10.0,Guide,Leisure,4.5,1,0,1,0
+316,Annapurna Circuit Trek,1250.0,14,3,5416 ,Hotel/Teahouse,Mar - May & Sep - Dec,2022-03-09,Other,31,950000,0,Malta,Beginner,Rainy,8.0,No Guide,Adventure,3.0,1,0,1,1
+317,Annapurna Circuit Short Trek,1250.0,12,5,5416 ,Hotel/Guesthouse,Mar - May & Sep - Nov,2022-10-02,Male,32,800000,0,Mauritania,Advanced,Snowy,12.0,Guide,Charity,5.0,1,0,1,0
+318,Annapurna Luxury Trek,1450.0,9,1,2012,Luxury Lodge,Mar - May & Sep - Dec,2021-09-15,Male,34,1100000,0,Mauritius,Unknown,Clear,8.0,Unknown,Unknown,4.0,1,0,1,1
+319,Annapurna Panorama Trek,860.0,9,0,3210 ,Hotel/Teahouse,Jan - May & Sep - Dec,2022-03-11,Other,25,1700000,1,Mexico,Beginner,Cloudy,6.0,No Guide,Adventure,3.5,1,0,1,1
+320,Annapurna Tilicho Lake Trek,1450.0,17,5,5416 ,Hotel/Guesthouse,Mar - May & Sep - Nov,2020-12-12,Other,35,800000,0,Monaco,Intermediate,Clear,10.0,Guide,Leisure,4.5,1,0,1,0
+321,Short Annapurna Trek,590.0,5,0,1990 ,Lodge,Jan - May & Sep - Dec,2022-09-28,Female,28,500000,0,Mongolia,Beginner,Rainy,8.0,No Guide,Adventure,3.0,1,0,1,1
+322,Manaslu Circuit Trek,1450.0,15,5,5106 ,Hotel/Guesthouse,Mar - May & Sep - Nov,2020-11-24,Female,28,750000,0,Moldova,Advanced,Snowy,12.0,Guide,Charity,5.0,1,0,1,0
+323,Manaslu Circuit Trekking,1380.0,14,3,5220 ,Hotel/Teahouse,Mar - May & Sep - Nov,2021-09-18,Male,33,1400000,0,Montenegro,Intermediate,Clear,5.0,Guide,Leisure,4.0,1,0,1,0
+324,Tsum Valley with Manaslu Trek,1850.0,20,5,5220 ,Hotel/Guesthouse,Mar - May & Sep - Nov,2020-12-04,Male,28,300000,0,Morocco,Unknown,Snowy,8.0,Unknown,Unknown,4.0,1,0,1,0
+325,Upper Mustang Trek,2150.0,17,1,4210 ,Hotel/Guesthouse,Mar - May & Sep - Nov,2023-02-01,Female,31,1250000,0,Mozambique,Intermediate,Clear,10.0,Guide,Leisure,4.5,1,0,1,0
+326,Upper Mustang Trek with Yara,2300.0,18,1,4200 ,Lodge,Mar - Nov,2020-02-01,Other,28,1150000,0,Oman,Beginner,Rainy,8.0,No Guide,Adventure,3.0,1,1,1,0
+327,Upper Mustang Tiji Festival Trek,2150.0,18,1,4210 ,Hotel/Teahouse,Mar - May & Sep - Nov,2021-03-30,Other,34,1300000,0,Namibia,Unknown,Clear,8.0,Unknown,Unknown,4.0,1,0,1,0
+328,Langtang Valley Trek,750.0,10,1,5050 ,Hotel/Teahouse,Mar - May & Sep - Dec,2022-08-20,Female,34,700000,1,Naure,Intermediate,Clear,5.0,Guide,Leisure,4.0,1,0,1,1
+329,Langtang Gosaikunda Trek,1180.0,16,1,4600,Hotel/Guesthouse,Mar - May & Sep - Dec,2020-06-20,Male,28,1100000,0,Nepal,Beginner,Cloudy,6.0,No Guide,Adventure,3.5,1,0,1,1
+330,Tamang Heritage Trek,920.0,14,1,5050 ,Hotel/Guesthouse,Mar - May & Sep - Dec,2020-04-26,Male,35,800000,0,Netherlands,Intermediate,Clear,10.0,Guide,Leisure,4.5,1,0,1,1
+331,Tamang Heritage Trail,750.0,8,0,2607 ,Teahouse/Lodge,Jan - May & Sep - Dec,2020-11-29,Other,33,550000,0,Vanuatu,Beginner,Rainy,8.0,No Guide,Adventure,3.0,1,0,1,1
+332,Helambu Trek,780.0,9,0,3650 ,Hotel/Guesthouse,Jan - May & Sep - Dec,2020-01-25,Other,31,1650000,1,New Zealand,Advanced,Snowy,12.0,Guide,Charity,5.0,1,0,1,1
+333,Annapurna Base Camp Trek,1499.0,11,4,4130,Hotel/Guesthouse,Jan - May & Sep - Dec,2021-06-11,Female,31,1400000,0,Nicaragua,Intermediate,Clear,5.0,Guide,Leisure,4.0,1,0,1,1
+334,Everest Base Camp Trek for Youths,1750.0,14,4,5545,Hotel/Guesthouse,Jan - May & Sep - Dec,2020-09-17,Female,29,1050000,0,Nigeria,Beginner,Cloudy,6.0,No Guide,Adventure,3.5,1,0,1,1
+335,Everest Base Camp Short Trek,1499.0,14,4,5545,Hotel/Guesthouse,Jan - May & Sep - Dec,2021-04-10,Male,28,800000,0,Nigeria,Intermediate,Clear,10.0,Guide,Leisure,4.5,1,0,1,1
+336,Everest Base Camp Trek,1499.0,16,4,5545,Hotel/Guesthouse,Jan - May & Sep - Dec,2022-01-05,Male,32,350000,0,Norway,Beginner,Rainy,8.0,No Guide,Adventure,3.0,1,0,1,1
+337,Annapurna Circuit Trek,1499.0,17,4,5416,Hotel/Guesthouse,Jan - May & Sep - Dec,2020-07-19,Female,30,550000,1,Micronesia,Advanced,Snowy,12.0,Guide,Charity,5.0,1,0,1,1
+338,Everest Base Camp Luxury Lodge Trek,1499.0,15,4,5545,Hotel/Guesthouse,Jan - May & Sep - Dec,2020-11-12,Other,28,600000,0,Marshall,Intermediate,Clear,5.0,Guide,Leisure,4.0,1,0,1,1
+339,Everest Base Camp Trek via Gokyo Lakes and Cho La Pass,1499.0,18,4,5545,Hotel/Guesthouse,Jan - May & Sep - Dec,2022-08-31,Female,29,1050000,0,Palao,Beginner,Cloudy,6.0,No Guide,Adventure,3.5,1,0,1,1
+340,Upper Mustang Trek,1499.0,17,4,3870,Hotel/Guesthouse,Jan - May & Sep - Dec,2021-09-29,Male,27,800000,0,Pakistan,Intermediate,Clear,10.0,Guide,Leisure,4.5,1,0,1,1
+341,Everest Advanced Base Camp Trek from Tibet,1499.0,18,4,6340,Hotel/Guesthouse,Jan - May & Sep - Dec,2023-03-28,Other,28,550000,0,Panama,Beginner,Rainy,8.0,No Guide,Adventure,3.0,1,0,1,1
+342,Gokyo Lakes and Gokyo Ri Trek,1499.0,14,4,5357,Hotel/Guesthouse,Jan - May & Sep - Dec,2023-04-24,Female,28,1100000,0,Papua New Guinea,Advanced,Snowy,12.0,Guide,Charity,5.0,1,0,1,1
+343,Mardi Himal Trek,1499.0,10,3,3540,Hotel/Guesthouse,Jan - May & Sep - Dec,2021-07-09,Other,28,1250000,0,Paraguay,Unknown,Rainy,8.0,Unknown,Unknown,4.0,1,0,1,1
+344,Manaslu Circuit Trek,1499.0,18,4,5160,Hotel/Guesthouse,Jan - May & Sep - Dec,2021-12-07,Male,32,800000,1,Peru,Beginner,Cloudy,6.0,No Guide,Adventure,3.5,1,0,1,1
+345,Langtang Valley Trek,1499.0,11,4,5000,Hotel/Guesthouse,Jan - May & Sep - Dec,2022-06-11,Other,29,1200000,0,Philippines,Intermediate,Clear,10.0,Guide,Leisure,4.5,1,0,1,1
+346,Annapurna Sanctuary Trek,1499.0,14,4,4130,Hotel/Guesthouse,Jan - May & Sep - Dec,2023-04-22,Female,25,1800000,1,Poland,Unknown,Clear,8.0,Unknown,Unknown,4.0,1,0,1,1
+347,Rara Lake Trek,1499.0,15,3,3055,Hotel/Guesthouse,Jan - May & Sep - Dec,2022-05-29,Female,34,1300000,1,Portugal,Advanced,Snowy,12.0,Guide,Charity,5.0,1,0,1,1
+348,Everest High Passes Trek,1499.0,20,4,5546,Hotel/Guesthouse,Jan - May & Sep - Dec,2020-11-26,Other,31,1400000,0,Guinea-Bissau,Unknown,Clear,8.0,Unknown,Unknown,4.0,1,0,1,1
+349,Kanchenjunga Circuit Trek,1499.0,25,4,5143,Hotel/Guesthouse,Jan - May & Sep - Dec,2022-07-04,Female,28,500000,0,East Timor Democratic Republic,Beginner,Cloudy,6.0,No Guide,Adventure,3.5,1,0,1,1
+350,Everest View Trek,1499.0,12,2,3870,Hotel/Guesthouse,Jan - May & Sep - Dec,2022-12-07,Other,31,950000,1,Qatar,Intermediate,Clear,10.0,Guide,Leisure,4.5,1,0,1,1
+351,Tsum Valley Trek,1499.0,19,4,6000,Hotel/Guesthouse,Jan - May & Sep - Dec,2022-03-06,Female,29,1200000,1,Romania,Beginner,Rainy,8.0,No Guide,Adventure,3.0,1,0,1,1
+352,The Royal Trek,1499.0,9,3,1730,Hotel/Guesthouse,Jan - May & Sep - Dec,2020-11-21,Other,31,1350000,0,Russia,Advanced,Snowy,12.0,Guide,Charity,5.0,1,0,1,1
+353,Makalu Base Camp Trek,1499.0,22,5,4870,Hotel/Guesthouse,Jan - May & Sep - Dec,2023-07-06,Female,31,300000,0,Rwanda,Intermediate,Clear,5.0,Guide,Leisure,4.0,1,0,1,1
+354,"Langtang, Gosainkunda and Helambu Trek",1499.0,17,3,5000,Hotel/Guesthouse,Jan - May & Sep - Dec,2022-05-13,Other,25,1150000,0,Saint Kitts and Nevis,Unknown,Clear,8.0,Unknown,Unknown,4.0,1,0,1,1
+355,Nar Phu Valley Trek,1499.0,19,4,5416,Hotel/Guesthouse,Jan - May & Sep - Dec,2023-06-09,Other,28,1400000,0,St. Lucia,Intermediate,Clear,10.0,Guide,Leisure,4.5,1,0,1,1
+356,Annapurna Circle Trek,1499.0,14,4,5416,Hotel/Guesthouse,Jan - May & Sep - Dec,2023-05-06,Male,34,1000000,0,St. Vincent,Beginner,Rainy,8.0,No Guide,Adventure,3.0,1,0,1,1
+357,Everest Kangshung Face Trek,1499.0,21,5,5320,Hotel/Guesthouse,Jan - May & Sep - Dec,2023-01-18,Other,34,500000,0,San Marino,Advanced,Snowy,12.0,Guide,Charity,5.0,1,0,1,1
+358,Tsum Valley and Manaslu Trek,1499.0,27,4,4460,Hotel/Guesthouse,Jan - May & Sep - Dec,2022-05-15,Other,34,1000000,1,Sao Tome and Principe,Intermediate,Clear,5.0,Guide,Leisure,4.0,1,0,1,1
+359,Khopra Ridge Community Trek,1499.0,13,4,4500,Hotel/Guesthouse,Jan - May & Sep - Dec,2023-01-25,Other,25,1150000,0,Saudi Arabia,Beginner,Cloudy,6.0,No Guide,Adventure,3.5,1,0,1,1
+360,Nepal Experience Tour,1499.0,12,1,3210,Hotel/Guesthouse,Jan - May & Sep - Dec,2023-01-10,Female,28,550000,0,Senegal,Intermediate,Clear,10.0,Guide,Leisure,4.5,1,0,1,1
+361,Annapurna Circuit Trek with Tilicho Lake and Poon Hill,1499.0,20,4,5416,Hotel/Guesthouse,Jan - May & Sep - Dec,2023-05-11,Male,29,1350000,0,Serbia,Beginner,Rainy,8.0,No Guide,Adventure,3.0,1,0,1,1
+362,Annapurna With Tilicho Lake Trek,1499.0,17,4,5416,Hotel/Guesthouse,Jan - May & Sep - Dec,2022-11-01,Male,28,700000,0,Seychelles,Advanced,Snowy,12.0,Guide,Charity,5.0,1,0,1,1
+363,Langtang Valley Trek with Ganja la Pass,1499.0,14,5,5122,Hotel/Guesthouse,Jan - May & Sep - Dec,2021-09-04,Female,34,1300000,0,Sierra Leone,Intermediate,Clear,5.0,Guide,Leisure,4.0,1,0,1,1
+364,Tamang Heritage Trek,1499.0,14,3,3870,Hotel/Guesthouse,Jan - May & Sep - Dec,2022-05-18,Female,31,1200000,0,Singapore,Beginner,Cloudy,6.0,No Guide,Adventure,3.5,1,0,1,1
+365,Manaslu and Annapurna Trek with Tilicho Lake,1499.0,25,4,5416,Hotel/Guesthouse,Jan - May & Sep - Dec,2023-08-03,Other,25,1700000,1,Slovakia,Intermediate,Clear,10.0,Guide,Leisure,4.5,1,0,1,1
+366,Nepal Trekking and Everest Himalaya Heli Tour,1499.0,7,3,5545,Hotel/Guesthouse,Jan - May & Sep - Dec,2022-02-21,Male,28,300000,0,Vietnam,Unknown,Snowy,8.0,Unknown,Unknown,4.0,1,0,1,1
+367,Nepal Hiking and Culture Tour,1499.0,8,3,1550,Hotel/Guesthouse,Jan - May & Sep - Dec,2022-04-24,Female,31,1300000,0,Slovenia,Advanced,Snowy,12.0,Guide,Charity,5.0,1,0,1,1
+368,Annapurna Sunrise and Everest View Trek,1499.0,17,3,3870,Hotel/Guesthouse,Jan - May & Sep - Dec,2020-01-30,Other,35,800000,0,Somalia,Intermediate,Clear,5.0,Guide,Leisure,4.0,1,0,1,1
+369,Tenzing Hillary Everest Marathon,1499.0,20,5,5545,Hotel/Guesthouse,Jan - May & Sep - Dec,2022-09-10,Female,32,800000,0,Republic of South Africa,Beginner,Cloudy,6.0,No Guide,Adventure,3.5,1,0,1,1
+370,Everest Base Camp Trek,1450.0,16,4,5545,Hotel/Guesthouse,Jan - May & Sep - Dec,2022-11-15,Female,31,1300000,0,Zimbabwe,Unknown,Clear,8.0,Unknown,Unknown,4.0,1,0,1,1
+371,Everest Kalapathar Trekking,1390.0,15,4,5545,Hotel/Guesthouse,Jan - May & Sep - Dec,2020-09-24,Other,27,900000,0,Spain,Unknown,Clear,8.0,Unknown,Unknown,4.0,1,0,1,1
+372,Everest Panorama Trek,1040.0,10,2,3860,Hotel/Guesthouse,Jan - May & Sep - Dec,2021-05-18,Female,29,350000,0,South Sudan,Advanced,Snowy,12.0,Guide,Charity,5.0,1,0,1,1
+373,Everest Base Camp Trek via Gokyo Lake,1530.0,19,4,5545,Hotel/Guesthouse,Jan - May & Sep - Dec,2020-09-18,Other,28,900000,1,Sudan,Intermediate,Clear,5.0,Guide,Leisure,4.0,1,0,1,1
+374,Gokyo Lake Trek,1190.0,13,3,5357,Hotel/Guesthouse,Jan - May & Sep - Dec,2022-04-10,Other,28,600000,0,Slovenia,Beginner,Cloudy,6.0,No Guide,Adventure,3.5,1,0,1,1
+375,Everest Base Camp Heli Trek,3600.0,9,3,5545,Hotel/Guesthouse,Jan - May & Sep - Dec,2022-01-15,Other,28,1100000,0,Swaziland,Intermediate,Clear,10.0,Guide,Leisure,4.5,1,0,1,1
+376,Annapurna Circuit Trek,1100.0,19,4,5416,Hotel/Guesthouse,Jan - May & Sep - Dec,2020-12-19,Male,31,1300000,0,Sweden,Beginner,Rainy,8.0,No Guide,Adventure,3.0,1,0,1,1
+377,Annapurna Base Camp Trek,1090.0,16,3,4130,Hotel/Guesthouse,Jan - May & Sep - Dec,2022-09-01,Male,27,1550000,1,Switzerland,Advanced,Snowy,12.0,Guide,Charity,5.0,1,0,1,1
+378,Ghorepani Poon Hill Trek,450.0,10,0,3210,Hotel/Guesthouse,Jan - May & Sep - Dec,2022-08-09,Male,25,1700000,1,Syria,Intermediate,Clear,5.0,Guide,Leisure,4.0,1,0,1,1
+379,Upper Mustang Trek,2100.0,17,4,4200,Hotel/Guesthouse,Jan - May & Sep - Dec,2022-09-09,Female,27,1550000,1,Tajikistan,Beginner,Cloudy,6.0,No Guide,Adventure,3.5,1,0,1,1
+380,Mardi Himal Trek,590.0,9,2,4500,Hotel/Guesthouse,Jan - May & Sep - Dec,2021-05-04,Other,28,1200000,0,Thailand,Intermediate,Clear,10.0,Guide,Leisure,4.5,1,0,1,1
+381,Langtang Valley Trekking,690.0,11,3,4773,Hotel/Guesthouse,Jan - May & Sep - Dec,2021-01-13,Female,29,1200000,0,Togo,Beginner,Rainy,8.0,No Guide,Adventure,3.0,1,0,1,1
+382,Manaslu Circuit Trek,1190.0,17,4,5220,Hotel/Guesthouse,Jan - May & Sep - Dec,2025-05-13,Female,31,1400000,1,Nepal,Advanced,Snowy,12.0,Guide,Charity,5.0,1,0,1,1
